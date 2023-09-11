@@ -1,1048 +1,1046 @@
 [lang]
 Lang=தமிழ்
 Ver=1
-
-1=&Archivo
-2=&Edici�n
-3=&Buscar
-4=&Ver
-5=&Proyecto
-6=E&jecutar
-7=&Herramientas
-8=Ve&ntana
-9=Ay&uda
-10=&Depurar
-
-
-1001=&Nuevo
-1002=&Proyecto...
-1003=Archivo &Fuente
-1004=Archivo de &Recurso
-1005=Pla&ntilla...
-1006=&Class...
-1007=New
+1=&கோப்பு
+2=&திருத்து
+3=&தேடல்
+4=&காட்சி
+5=&திட்டம்
+6=இயக்கு
+7=&கருவிகள்
+8=சாளரம்
+9=உதவி
+10=& பிழைத்திருத்தம்
 
 
-2001=&Abrir Proyecto o Archivo
-2002=&Reabrir
-2003=&Limpiar Historial
-2004=&Guardar
-2005=Guardar C&omo...
-2006=Guardar &Todo
-2007=&Cerrar
-2008=Cerrar Pro&yecto
-2009=&Propiedades
-2010=Grabar proyecto como...
-2011=&Exportar
+1001=&புதிய
+1002=&திட்டம்...
+1003=கோப்பு &மூலம்
+1004=கோப்பு &வளம்
+1005=வார்ப்புரு...
+1006=&வகுப்பு...
+1007=புதிய
+
+
+2001=&திறந்த திட்டம் அல்லது கோப்பை
+2002=&மீண்டும் திற
+2003=&வரலாற்றை அழி
+2004=&சேமி
+2005=எப்படி சேமி...
+2006=அனைத்தையும் சேமி
+2007=&மூடு
+2008=மூடு திட்டம்
+2009=&பண்புகள்
+2010=திட்டத்தை இவ்வாறு சேமி...
+2011=&ஏற்றுமதி
 2012=A &HTML
 2013=A &RTF
-2014=&Proyecto a HTML
-2015=to &Tex
+2014=&புராஜெக்ட் டு HTML
+2015=&Tex
 
 
-3001=I&mportar
-3002=&Imprimir
-3003=&Configurar Impresi�n
-3004=&Salir
+3001=நான்&இறக்குமதி
+3002=&அச்சு
+3003=&அச்சு அமைப்பு
+3004=&வெளியேறு
 
 
-4001=&Find Declaration
-4002=F&ind Definition
-4003=&Deshacer
-4004=&Rehacer
-4005=&Cortar
-4006=&Copiar
-4007=&Pegar
-4008=&Seleccionar Todo
-4009=&Borrar
-4010=&Insertar
-4011=&Marcadores de Posici�n
-4012=&Ir a Marcadores de Posici�n
-4013=Marcador
-4014=&Fecha y Hora
-4015=&Encabezado Comentario
+4001=&பிரகடனத்தைக் கண்டுபிடி
+4002=F&ind வரையறை
+4003=&செயல்தவிர்
+4004=&மீண்டும் செய்
+4005=&வெட்டு
+4006=&நகல்
+4007=&ஒட்டு
+4008=&அனைத்தையும் தேர்ந்தெடு
+4009=&நீக்கு
+4010=&செருகு
+4011=&இடம் வைத்திருப்பவர்கள்
+4012=&இடைவெளிகளுக்குச் செல்
+4013=புக்மார்க்
+4014=&தேதி மற்றும் நேரம்
+4015=&கருத்து தலைப்பு
 
 
-5001=&Buscar
-5002=Bus&car en archivos
-5003=&Reemplazar
-5004=Buscar &Nuevamente
-5005=&Ir a L�nea
-5006=&B�squeda Incremental
-5007=Ir a &Funci�n
-5008=Administrador de Proyectos Flotante
-5009=Ir al Administrador de &Proyectos
-5010=Ir al Navegador de &Clases
-5011=&Navegador de Proyectos/Clases
-5012=&Barra de Estado
-5013=&Salida del Compilador
-5014=Siempre &Visible
-5015=S�lo cuando se &Necesite
-5016=Barra de &Herramientas
-5017=&Principal
-5018=&Compilar y Ejecutar
-5019=Pro&yecto
-5020=&Opciones
-5021=&Especiales
-5022=&Edici�n
-5023=&Buscar
-5024=Ventana de reporte flotante
+5001=&தேடல்
+5002=கோப்புகளில் தேடவும்
+5003=&மாற்று
+5004=மீண்டும் தேடவும்
+5005=&கோட்டுக்குச் செல்
+5006=&அதிகரிக்கும் தேடல்
+5007=&செயல்பாட்டிற்கு செல்க
+5008=மிதக்கும் திட்ட மேலாளர்
+5009=&Project Managerக்குச் செல்
+5010=&வகுப்புகள் நேவிகேட்டருக்கு செல்க
+5011=&திட்டம்/வகுப்பு நேவிகேட்டர்
+5012=&நிலைப் பட்டி
+5013=&கம்பைலர் வெளியீடு
+5014=எப்போதும் &தெரியும்
+5015=&தேவைப்படும் போது மட்டும்
+5016=&டூல் பார்
+5017=&முதன்மை
+5018=&தொகுத்து இயக்கவும்
+5019=புரோ&ப்ராஜெக்ட்
+5020=&விருப்பங்கள்
+5021=&சிறப்பு
+5022=&திருத்து
+5023=&தேடல்
+5024=மிதக்கும் அறிக்கை சாளரம்
 
 
-6001=&Nuevo archivo fuente
-6002=&A�adir a Proyecto
-6003=&Quitar del proyecto
-6004=&Editar Archivo de Recursos
-6005=Opciones de Pro&yecto
-6006=Editar &Makefile
-6007=Agregar Archivo de Recursos
-6008=Remover Archivo de Recursos
+6001=&புதிய மூலக் கோப்பு
+6002=&திட்டத்தில் சேர்க்க
+6003=&திட்டத்திலிருந்து அகற்று
+6004=&ஆதாரக் கோப்பைத் திருத்தவும்
+6005=திட்ட விருப்பங்கள்
+6006=திருத்து &மேக்ஃபைல்
+6007=வளக் கோப்பைச் சேர்
+6008=வளக் கோப்பை அகற்று
 
 
-7001=&Compilar
-7002=&Ejecutar
-7003=C&ompilar y Ejecutar
-7004=&Reconstruir Todo
-7005=&Limpiar Construcci�n
-7006=Re&sultados del Compilador
-7007=Revisar Sinta&xis
-7008=Reiniciar &Programa
-7009=&An�lisis Perfil de Ejecuci�n
-7010=Ca&ncelar Compilaci�n
-7011=Opciones del &Compilador
-7012=Opciones de Entorno
-7013=&Opciones del E&ditor
-7014=Configurar &Herramientas
-7015=Configurar &Teclas R�pidas
-7016=Delete Profiling Information
+7001=&தொகுக்கவும்
+7002=&எக்ஸிகியூட்
+7003=தொகுத்து இயக்கவும்
+7004=&அனைத்தையும் மீண்டும் உருவாக்கு
+7005=&தெளிவான கட்டுமானம்
+7006=தொகுப்பான் முடிவுகள்
+7007=Synta&xis ஐ சரிபார்க்கவும்
+7008=மறுதொடக்கம் &நிரல்
+7009=&எக்ஸிகியூஷன் சுயவிவர பகுப்பாய்வு
+7010=தொகுப்பை ரத்துசெய்
+7011=&கம்பைலர் விருப்பங்கள்
+7012=சுற்றுச்சூழல் விருப்பங்கள்
+7013=&எடிட்டர் விருப்பங்கள்
+7014=உருவாக்க &கருவிகள்
+7015=விரைவு விசைகளை உள்ளமைக்கவும்
+7016=சுயவிவரத் தகவலை நீக்கு
 
 
-8001=Modo &Pantalla Completa
-8002=Modo &Normal
-8003=&Siguiente
-8004=&Anterior
-8005=&Cerrar Todo
-8006=Pantalla completa de Dev-CPP %s. Presione Mayus-F12 para ver/ocultar 
-8007=Cerrar todos excepto este
-8008=&Listar...
+8001=முறை &முழுத் திரை
+8002=முறை &இயல்பு
+8003=&அடுத்து
+8004=&முந்தையது
+8005=&அனைத்தையும் மூடு
+8006=Dev-CPP %s முழுத்திரை. பார்க்க/மறைக்க Shift-F12ஐ அழுத்தவும்
+8007=இதைத் தவிர அனைத்தையும் மூடு
+8008=&பட்டியல்...
 
 
-9001=&Acerca de Dev-C++...
-9002=A&ctualizaciones
-9003=&Modificar Men� de Ayuda...
-9004=&Ayuda en Dev-CPP
+9001=&Dev-C++ பற்றி...
+9002=ஏ&புதுப்பிப்புகள்
+9003=&உதவி மெனுவை மாற்றவும்...
+9004=&Dev-CPP இல் உதவி
 
 
-10001=&Depurar
-10002=Alternar Punto de Parada (&breakpoint)
-10003=Siguiente &Paso
-10004=Siguiente &Instrucci�n sin entrar
-10005=&A�adir variable vigilada
-10006=&Ver Variables
-10007=&Detener Ejecuci�n
-10008=&Editar vigilancia
-10009=&Remover vigilancia
-10010=Entrar a &siguiente instrucci�n
-10011=&Ejecutar hasta el cursor
-10012=Ver ve&ntana del CPU
-10013=Pegar al proseso...
-10014=Modificar valor
-10015=Limpiar todo
-10016=&Nuevo Archivo
-10017=&A�adir Archivo
-10018=&Remover Archivo...
-10019=&Opciones...
-10020=&Editar Archivo de Recurso
+10001=&பிழைநீக்கு
+10002=பிரேக் பாயிண்ட் (&பிரேக் பாயிண்ட்)
+10003=அடுத்த &படி
+10004=உள்ளிடாமல் அடுத்த &அறிவுறுத்தல்
+10005=&கண்காணிக்கப்பட்ட மாறியைச் சேர்க்க
+10006=&மாறிகளைப் பார்க்கவும்
+10007=&நிறுத்தம்
+10008=&கண்காணிப்பைத் திருத்து
+10009=&கண்காணிப்பை அகற்று
+10010=அடுத்த அறிவுறுத்தலை உள்ளிடவும்
+10011=&கர்சருக்கு இயக்கவும்
+10012=CPU சாளரத்தைக் காண்க
+10013=செயல்படுத்த ஒட்டு...
+10014=மதிப்பை மாற்றவும்
+10015=அனைத்தையும் அழி
+10016=&புதிய கோப்பு
+10017=&கோப்பைச் சேர்க்க
+10018=&கோப்பை அகற்று...
+10019=&விருப்பங்கள்...
+10020=&ஆதாரக் கோப்பைத் திருத்தவும்
 
 
-11001=&Remover Archivo
-11002=&Renombrar Archivo
-11003=&Cerrar
-11004=&Abrir
-11005=Abrir Ca&becera
+11001=&கோப்பை அகற்று
+11002=&கோப்பை மறுபெயரிடவும்
+11003=&மூடு
+11004=&திறக்க
+11005=திறந்த Ca&becera
 
 
-12001=Ir a declaraci�n
-12002=Ir a implementaci�n
-12003=Nueva &Clase/Funci�n
-12004=Nueva &Funci�n Miembro
-12005=Nueva &Variable
-12006=&Modo de visualizaci�n...
-12007=&Todos los archivos
-12008=&Archivo actual
-12009=A&gregar carpeta
-12010=&Remover carpeta
-12011=Re&nombrar carpeta
-12012=No puede crear m�s de %d carpetas en un proyecto...
-12013=&Usar colores
-12014=Archivos del proyecto
-12015=Ver miembros derivados
-12016=Abrir con...
+12001=அறிவிப்புக்குச் செல்
+12002=செயல்படுத்தலுக்குச் செல்
+12003=புதிய &வகுப்பு/செயல்பாடு
+12004=புதிய &உறுப்பினர் செயல்பாடு
+12005=புதிய &மாறி
+12006=&காட்சி முறை...
+12007=&எல்லா கோப்புகளும்
+12008=&தற்போதைய கோப்பு
+12009=கோப்புறையை&சேர்க்க
+12010=&கோப்புறையை அகற்று
+12011=கோப்புறையை மறு&பெயர்
+12012=ஒரு திட்டத்தில் %d கோப்புறைகளுக்கு மேல் உருவாக்க முடியாது...
+12013=&வண்ணங்களைப் பயன்படுத்தவும்
+12014=திட்டக் கோப்புகள்
+12015=பெறப்பட்ட உறுப்பினர்களைக் காண்க
+12016=இதனுடன் திற...
 
 
-13001=Compilador
-13002=Recursos
-13003=Registro de Compilaci�n
-13004=Resultados
-13005=Cerrar
-13006=Depuraci�n
+13001=தொகுப்பாளர்
+13002=வளங்கள்
+13003=தொகுப்பு பதிவு
+13004=முடிவுகள்
+13005=மூடு
+13006=பிழைத்திருத்தம்
 
 
-14001=&Limpiar
-14002=&Copiar
-14003=&Ocultar
-14004=&Abrir
+14001=&தெளிவு
+14002=&நகல்
+14003=&மறை
+14004=&திறந்துள்ளது
 
 
-15001=L�nea
-15002=Archivo
-15003=Mensaje
-15004=Argumentos
+15001=கோடு
+15002=கோப்பு
+15003=செய்தி
+15004=வாதங்கள்
 
 
-16001=Encontrar L�nea
+16001=கோடு கண்டுபிடி
 16002=Col.
-16003=Nombre de Variable
-16004=Valor
-16005=Informaci�n:
-16006=Registro de Compilaci�n:
-16007=Total de Errores:
-16008=Tama�o de Salida:
+16003=மாறி பெயர்
+16004=மதிப்பு
+16005=தகவல்:
+16006=தொகுப்பு பதிவு:
+16007=மொத்தப் பிழைகள்:
+16008=வெளியீட்டு அளவு:
 
 
-17001=Variables vigiladas
-17002=Retroseguimiento
-17003=Salida
-17004=Enviar comando a GDB
-17005=Enviar
+17001=கண்காணிக்கப்பட்ட மாறிகள்
+17002=ட்ராக்பேக்
+17003=வெளியீடு
+17004=GDBக்கு கட்டளையை அனுப்பவும்
+17005=அனுப்பு
 
 
-18001=Nuevo
-18002=Insertar
-18003=Activar/Desactivar
-18004=Ir a
-18005=Ventana de Proyecto
-18006=Ventana de Depuraci�n
-18007=Report Window
+18001=புதியது
+18002=செருகு
+18003=இயக்கு/முடக்கு
+18004=செல்
+18005=திட்ட சாளரம்
+18006= பிழைத்திருத்த சாளரம்
+18007=அறிக்கை சாளரம்
 
 
-19001=Abrir Archivo
-19002=Abrir Unidad
-19003=Exportar a
-19004=Guardar Archivo
-19005=Guardar Proyecto
-19006=Seleccionar Archivo de Ayuda
+19001=கோப்பைத் திற
+19002=திறந்த அலகு
+19003=ஏற்றுமதி
+19004=கோப்பைச் சேமி
+19005=திட்டத்தை சேமி
+19006=உதவி கோப்பைத் தேர்ந்தெடுக்கவும்
 
 
-20001=Nueva Variable vigilancia
-20002=Ingrese Nombre de Variable:
-20003=Modificar Variable Watch
-20004=Nuevo Nombre de Variable:
-20005=Modify value
-20006=Variable to modify:
-20007=New value:
+20001=புதிய கண்காணிப்பு மாறி
+20002=மாறி பெயரை உள்ளிடவும்:
+20003=வாட்ச் மாறியை மாற்றவும்
+20004=புதிய மாறி பெயர்:
+20005=மதிப்பை மாற்றவும்
+20006=மாற்றி மாற்ற:
+20007=புதிய மதிப்பு:
 
 
-21001=Proyecto
-21002=Clases(Funciones)
+21001=திட்டம்
+21002=வகுப்புகள்(செயல்பாடுகள்)
 
 
-22001=Poner comentario
-22002=Retirar comentario
-22003=Indentar
-22004=Suprimir Indentaci�n
-22005=Intercambiar encabezado/fuente
-22006=Collapse All
-22007=Uncollapse All
+22001=கருத்தை இடுகையிடவும்
+22002=கருத்தை அகற்று
+22003=இன்டென்ட்
+22004= உள்தள்ளலை அடக்கவும்
+22005=மாற்று தலைப்பு/எழுத்துரு
+22006=அனைத்தையும் சுருக்கு
+22007=அனைத்தையும் அவிழ்த்துவிடு
 
 
-23001=Opciones del Editor
-23002=Generales
-23003=Visualizar
-23004=Sintaxis
-23005=C�digo
-23006=Auto Completar C�digo
-23007=Navegador de Clases(Funciones)
-23008=Autosave
+23001=எடிட்டர் விருப்பங்கள்
+23002=பொது
+23003=காட்சி
+23004=தொடரியல்
+23005=C சொல்லுங்கள்
+23006=தானியங்கு முழுமையான குறியீடு
+23007=வகுப்பு நேவிகேட்டர் (செயல்பாடுகள்)
+23008=தானாக சேமிக்கவும்
 
 
-24001=Inserciones
-24002=Fuente por omisi�n
-24003=Files
-24004=Options
-24005=Symbol Completion
+24001=செருகுகள்
+24002=இயல்புநிலை எழுத்துரு
+24003=கோப்புகள்
+24004=விருப்பங்கள்
+24005=சின்ன நிறைவு
 
 
-25001=Escriba el nombre para el archivo de ajustes:
-25002=Opciones de Editor:
-25003=Autoidentar
-25004=Modo Insertar
-25005=Usar Caracter Tabulador
-25006=Tabuladores inteligentes
-25007=Backspace quita indentaci�n
+25001=பியர் பெயரை உள்ளிடவும்அமைப்புகள் கோப்பிற்கு:
+25002=எடிட்டர் விருப்பங்கள்:
+25003=தானியங்கு அடையாளம்
+25004=செருகு முறை
+25005=தாவல் எழுத்தைப் பயன்படுத்தவும்
+25006=ஸ்மார்ட் டேப்கள்
+25007=Backspace நீக்க உள்தள்ளல்
 
 
-26001=Agrupar Deshacer
-26002=Tecla Home/Inicio mejorada
-26003=Cursor Fin de Archivo r�pido
-26004=Cursor r�pido fin de l�nea
-26005=L�nea Doble Click
-26006=Encontrar Texto desde el Cursor
-26007=Barras de Desplazamiento cuando se nececites
-26008=Desplazamiento Media P�gina
-26009=Ayuda de Scroll
-26010=Usar Coloreo de Sintaxis
-26011=Insertar Archivos Arrastrados
-26012=Tama�o de Tabulador:
-26013=Margen Derecho
-26014=Visible
-26015=Ancho
-26016=Color:
-26017=Intercalaci�n
-26018=Insertar Intercalaci�n
-26019=Sobreescribir Intercalaci�n
-26020=L�nea Vertical
-26021=L�nea Horizontal
-26022=Medio Bloque
-26023=Bloque
-26024=Highlight current line
-26025=Trim trailing spaces
-26026=Enabled
-26027=Gutter width
+26001=குழு செயல்தவிர்
+26002=மேம்படுத்தப்பட்ட முகப்பு விசை
+26003=கோப்பு கர்சரின் விரைவான முடிவு
+26004=வரியின் வேகமான கர்சர் முடிவு
+26005=இரட்டை கிளிக் வரி
+26006=கர்சரிலிருந்து உரையைக் கண்டறிக
+26007=தேவைப்படும் போது ஸ்க்ரோல் பார்கள்
+26008=அரை பக்க உருள்
+26009=உருள் உதவி
+26010=சின்டாக்ஸ் வண்ணத்தைப் பயன்படுத்தவும்
+26011=இழுத்தப்பட்ட கோப்புகளைச் செருகவும்
+26012=தாவல் அளவு:
+26013=வலது விளிம்பு
+26014=தெரியும்
+26015=அகலம்
+26016=நிறம்:
+26017=இடைவிடுதல்
+26018=தொகுப்பைச் செருகவும்
+26019=மேலெழுதும் தொகுப்பு
+26020=செங்குத்து கோடு
+26021=கிடைமட்டக் கோடு
+26022=அரை தொகுதி
+26023=தடுப்பு
+26024=தற்போதைய வரியை முன்னிலைப்படுத்தவும்
+26025=டிரிம் ஸ்பேஸ்
+26026=இயக்கப்பட்டது
+26027=கட்டர் அகலம்
 
 
-27001=Mostrar Caracteres ocultos en la L�nea
-27002=Mostrar Sugerencias del Editor
-27003=Resaltar inicio y fin de par�ntesis / llaves
-27004=Ensure that file ends with newline
-27005=Enabled
-27006=Sets to System HighlightText value
-27007=Sets to WhiteSpace value
-27008=Show function hints
-27009=It is also possible to edit text size by using Control+Scroll, just like in browsers!
-27010=Tipograf�a del Editor:
-27011=Tipograf�a (Fuente)
-27012=Tama�o
-27013=Tipograf�a del Editor
-27014=Encuadernaci�n
-27015=Tama�o Autom�tico
-27016=N�meros de L�nea
-27017=Mostrar Ceros a la Izquierda
-27018=Comenzar en Cero
-27019=Usar Tipograf�a personalizada
-27020=Tipograf�a de Encuadernaci�n
-27021=Primer Plano
-27022=Fondo
-27023=Estilos
-27024=Negrilla
-27025=It�lica
-27026=Subrayada
-27027=Ajustes R�pidos de Color
-27028=Tipo :
-27029=Grabar ajustes personalizados de sintaxis
-27030=C�digo
-27031=Texto del Men�
-27032=Secci�n
-27033=Descripci�n
-27034=Insertar C�digo autom�tico en Archivo Fuente de un Proyecto Vacio
-27035=Usar b�fer para completar c�digo
-27036=Auto completar c�digo
-27037=Activar Auto Completar C�digo
-27038=Retardo (ms):
-27039=Color de fondo:
-27040=Ajustes al Navegador de Clases
-27041=Examinar archivos locales referenciados en cabeceras #include
-27042=Muestra:
-27043=Opciones del Buscador
-27044=Opciones de Visualizaci�n
-27045=Activar Navegador de Clases
-27046=Examinar archivos globales referenciados en cabeceras #include
-27047=S�lo mostrar clases del archivo activo
-27048=Interval:
-27049=Save all open files after each interval
-27050=Nuevo Proyecto
-27051=Descripci�n:
-27052=Enable symbol completion
-27053=Specific completion options
-27054=Complete braces '{}'
-27055=Complete parentheses '()'
-27056=Complete includes '<>' '""'
-27057=Complete square braces '[]'
-27058=Complete multiline comments '/**/'
+27001=கோட்டில் மறைக்கப்பட்ட எழுத்துக்களைக் காட்டு
+27002=எடிட்டரின் பரிந்துரைகளைக் காட்டு
+27003=அடைப்புக்குறிகள் / சுருள் பிரேஸ்களின் தொடக்கத்தையும் முடிவையும் முன்னிலைப்படுத்தவும்
+27004=அந்த கோப்பு புதிய வரியுடன் முடிவடைகிறது என்பதை உறுதிப்படுத்தவும்
+27005=இயக்கப்பட்டது
+27006=System HighlightText மதிப்புக்கு அமைக்கிறது
+27007=WhiteSpace மதிப்பை அமைக்கிறது
+27008=செயல்பாடு குறிப்புகளைக் காட்டு
+27009=உலாவிகளைப் போலவே, Control+Scroll ஐப் பயன்படுத்தி உரை அளவைத் திருத்தவும் முடியும்!
+27010=ஆசிரியர் அச்சுக்கலை:
+27011=அச்சுக்கலை (எழுத்துரு)
+27012=அளவு
+27013=ஆசிரியர் அச்சுக்கலை
+27014=பைண்டிங்
+27015=தானியங்கி அளவு
+27016=வரி எண்கள்
+27017=முன்னணி பூஜ்ஜியங்களைக் காட்டு
+27018=பூஜ்ஜியத்தில் தொடங்கு
+27019=தனிப்பயன் எழுத்துருவைப் பயன்படுத்தவும்
+27020=பைண்டிங் அச்சுக்கலை
+27021=குளோஸ்-அப்
+27022=பின்னணி
+27023=பாணிகள்
+27024=தடித்தது
+27025=இத்தாலி
+27026=அடிக்கோடு
+27027=விரைவான வண்ண அமைப்புகள்
+27028=வகை:
+27029=தனிப்பயன் தொடரியல் அமைப்புகளைச் சேமிக்கவும்
+27030=C சொல்லுங்கள்
+27031=மெனு உரை
+27032=பிரிவு
+27033=விளக்கம்
+27034=ஒரு வெற்று திட்டத்தின் மூலக் கோப்பில் தானியங்கி குறியீட்டைச் செருகவும்
+27035=குறியீட்டை முடிக்க இடையகத்தைப் பயன்படுத்தவும்
+27036=தானியங்கு முழுமையான குறியீடு
+27037=தானியங்கு முழுமையான குறியீட்டை இயக்கு
+27038=தாமதம் (மிஎஸ்):
+27039=பின்னணி நிறம்:
+27040=வகுப்பு நேவிகேட்டர் அமைப்புகள்
+27041=#include headers இல் குறிப்பிடப்பட்டுள்ள உள்ளூர் கோப்புகளை ஆராயவும்
+27042=மாதிரி:
+27043=கண்டுபிடிப்பு விருப்பங்கள்
+27044=காட்சி விருப்பங்கள்
+27045=கிளாஸ் நேவிகேட்டரை இயக்கு
+27046=#include headers இல் குறிப்பிடப்பட்டுள்ள உலகளாவிய கோப்புகளை ஆராயவும்
+27047=செயலில் உள்ள கோப்பிலிருந்து வகுப்புகளை மட்டும் காட்டு
+27048=இடைவெளி:
+27049=ஒவ்வொரு இடைவெளிக்குப் பிறகும் அனைத்து திறந்த கோப்புகளையும் சேமிக்கவும்
+27050=புதிய திட்டம்
+27051=விளக்கம்:
+27052=குறியீட்டை முடிப்பதை இயக்கு
+27053=குறிப்பிட்ட நிறைவு விருப்பங்கள்
+27054=முழு பிரேஸ்கள் '{}'
+27055=முழு அடைப்புக்குறிகள் '()'
+27056=முழுமையில் '<>' '""' அடங்கும்
+27057=முழு சதுர பிரேஸ்கள் '[]'
+27058=முழு மல்டிலைன் கருத்துகள் '/**/'
 
 
-28001=Nombre:
-28002=En &C
-28003=En C&++
-28004=&Lenguaje por omisi�n
-28005=Misc.
-28006=Opciones del proyecto
+28001=பெயர்:
+28002=இன் &சி
+28003=C++ இல்
+28004=&இயல்பு மொழி
+28005=இதர.
+28006=திட்ட விருப்பங்கள்
 
 
-29001=Remover de Proyecto
-29002=Seleccione Archivo a Remover del Proyecto :
+29001=திட்டத்திலிருந்து அகற்று
+29002=திட்டத்திலிருந்து நீக்க கோப்பைத் தேர்ந்தெடுக்கவும்:
 
 
-30001=Ir a L�nea ...
-30002=Nueva L�nea:
+30001=ஆன்லைனுக்கு செல்...
+30002=புதிய வரி:
 
 
-31001=Configuraci�n de Herramientas
-31002=Herramientas Actuales:
+31001=கருவி கட்டமைப்பு
+31002=தற்போதைய கருவிகள்:
 
 
-32001=Editar Entrada de Herramienta
-32002=T�tulo
-32003=Programa
-32004=Carpeta de Trabajo
-32005=Par�metros
-32006=Insertar Macro
-32007=Macros Disponibles
+32001= கருவி உள்ளீட்டைத் திருத்தவும்
+32002=தலைப்பு
+32003=நிரல்
+32004=பணிக் கோப்புறை
+32005=ஜோடி மீட்டர்
+32006=மேக்ரோவைச் செருகவும்
+32007=கிடைக்கும் மேக்ரோக்கள்
 
 
-33001=Librer�a de Iconos
-33002=Usar Icono Seleccionado
-33003=Examinar
+33001=ஐகான் லைப்ரரி
+33002=தேர்ந்தெடுக்கப்பட்ட ஐகானைப் பயன்படுத்தவும்
+33003=உலாவு
 
 
-34001=Configurar teclas r�pidas
-34002=Haga clic en un item y presione la tecla que desea asignar
-34003=Presione tecla ESC para retirar una tecla
-34004=Entrada del men�
-34005=Tecla Asignada
-34006=Cancelar
-34007=Aceptar
+34001=ஹாட் கீகளை உள்ளமைக்கவும்
+34002=ஒரு பொருளைக் கிளிக் செய்து, நீங்கள் ஒதுக்க விரும்பும் விசையை அழுத்தவும்
+34003=ஒரு விசையை அகற்ற ESC விசையை அழுத்தவும்
+34004=மெனு உள்ளீடு
+34005=ஒதுக்கப்பட்ட சாவி
+34006=ரத்துசெய்
+34007=ஏற்றுக்கொள்
 
 
-35001=Devuelve Directorio por Omisi�n
-35002=Devuelve Directorio de Trabajo de Dev-Cpp
-35003=Devuelve el Nombre de Archivo compilado
-35004=Devuelve la Ruta del proyecto actual o el archivo fuente
-35005=Devuelve el Nombre de archivo del proyecto actual o el archivo fuente
-35006=Devuelve el "Nombre" del proyecto
-35007=Devuelve el Nombre del archivo fuente actual
-35008=Devuelve la Ruta del archivo fuente actual
-35009=Devuelve Lista de Archivos del proyecto separados por espacios
-35010=Devuelve la Palabra en el cursor en el editor activo
-35011=Devuelve la Version de Dev-Cpp
+35001=இயல்புநிலை கோப்பகத்தை வழங்குகிறது
+35002=டெவ்-சிபிபி பணிக் கோப்பகத்தை வழங்குகிறது
+35003=தொகுக்கப்பட்ட கோப்பு பெயரைத் தருகிறது
+35004=தற்போதைய திட்டம் அல்லது மூலக் கோப்பின் பாதையை வழங்குகிறது
+35005=தற்போதைய திட்டம் அல்லது மூலக் கோப்பின் கோப்புப் பெயரை வழங்குகிறது
+35006=திட்டத்தின் "பெயரை" வழங்கும்
+35007=தற்போதைய மூல கோப்பின் பெயரை வழங்குகிறது
+35008=தற்போதைய மூல கோப்பின் பாதையை வழங்குகிறது
+35009=இடைவெளிகளால் பிரிக்கப்பட்ட திட்டக் கோப்புகளின் பட்டியலைத் தருகிறது
+35010=செயலில் உள்ள எடிட்டரில் உள்ள கர்சரில் வார்த்தையைத் திருப்பியளிக்கிறது
+35011=Dev-Cpp பதிப்பை வழங்குகிறது
 
 
-36001=Acerca de Dev-Cpp :)
+36001=Dev-Cpp பற்றி :)
 36002=inseculous@users.sourceforge.net
-36003=Licencia P�blica GPL de GNU
-36004=Informaci�n de Contacto
-36005=Sitio web de Bloodshed Software:
-36006=Sitio web del Compilador Mingw:
-36007=Dev-Cpp foros de discusi�n:
-36008=Dev-Cpp lista de correo:
-36009=E-mail de los Autores:
+36003=GNU GPL பொது உரிமம்
+36004=தொடர்புத் தகவல்
+36005=இரத்தம் சிந்தும் மென்பொருள் இணையதளம்:
+36006=மிங்வ் கம்பைலர் இணையதளம்:
+36007=Dev-Cpp விவாத மன்றங்கள்:
+36008=Dev-Cpp அஞ்சல் பட்டியல்:
+36009=ஆசிரியர்களின் மின்னஞ்சல்:
 36010=http://www.bloodshed.net
 36011=http://www.mingw.org
 36012=http://www.bloodshed.net/forum
 36013=http://www.bloodshed.net/devcpp-ml.html
 36014=haiku@bloodshed.net
-36015=&Buscar Actualizaciones
-36016=Post-4.9.9.2 Development:
+36015=&புதுப்பிப்புகளைச் சரிபார்க்கவும்
+36016=Post-4.9.9.2 வளர்ச்சி:
 36017=http://orwellengine.blogspot.com
 
 
-37001=Editar entrada de c�digo autom�tico
-37002=A�adir entrada de c�digo autom�tico
-37003=Nombre para el art�culo en Men�
-37004=Descripci�n de Art�culo
-37005=Secci�n de Men�
+37001=தானியங்கு குறியீடு உள்ளீட்டைத் திருத்து
+37002=தானியங்கு குறியீடு உள்ளீட்டைச் சேர்க்கவும்
+37003=மெனுவில் உள்ள உருப்படிக்கான பெயர்
+37004=உருப்படி விளக்கம்
+37005=மெனு பிரிவு
 
 
-38001=Ventana de Proceso de Compilaci�n
-38002=&Ver durante la compilaci�n
-38003=&Cerrar autom�ticamente luego de compilaci�n
-38004=No mostrar pantalla de Saludo
-38005=Opciones de Entorno
-38006=Generales
-38007=Archivos y Directorios
-38008=Auto Abrir
-38009=C++ por Defecto al Abrir nuevo proyecto
-38010=Mostrar Barra de Herramientas en Pantalla Completa
-38011=Crear Archivos de Respaldo
-38012=Minimizar al Ejecutar el Programa
-38013=Estilo de di�logo Abrir/Guardar
-38014=Windows 2k (Barra lateral)
+38001=தொகுப்பு செயல்முறை சாளரம்
+38002=&தொகுப்பின் போது பார்க்கவும்
+38003=&தொகுத்த பிறகு தானாக மூடு
+38004=வாழ்த்துத் திரையைக் காட்டாதே
+38005=சுற்றுச்சூழல் விருப்பங்கள்
+38006=பொது
+38007=கோப்புகள் மற்றும் கோப்பகங்கள்
+38008=தானாகத் திறபுதிய திட்டத்தை திறக்கும் போது 38009=C++ இயல்புநிலை
+38010=கருவிப்பட்டியை முழுத்திரையில் காட்டு
+38011=காப்பு கோப்புகளை உருவாக்கவும்
+38012=நிரலை இயக்கும் போது குறைக்கவும்
+38013=திறந்த/சேமி உரையாடல் நடை
+38014=Windows 2k (பக்கப்பட்டி)
 38015=Windows 9X
 38016=Windows 3.1x
-38017=Lenguaje:
-38018=Fichas de la ventana de Mensaje:
-38019=M�x n�mero de Archivos Men� Reabrir
-38020=Directorio de Dev-CPP
-38021=Directorio de Salida
-38022=Ruta a Librer�a de Iconos
-38023=Imagen de Pantalla de Saludo
-38024=Seleccionar Directorio por Defecto de Usuario
-38025=Seleccionar Directorio de Salida del Compilador
-38026=Seleccionar Directorio de Librerias de Iconos
-38027=Todos los archivos del Proyecto
-38028=S�lo el primer archivo del proyecto
-38029=Nada
-38030=Mostrar Men� en Modo de Pantalla Completa
-38031=Doble Click para Abrir Archivos del Administrador de Proyectos
-38032=Ruta a los Archivos de Idiomas
-38033=Tema:
-38034=Interfaz
-38035=Buscar Texto
-38036=Buscar
-38037=Buscar en Archivos
-38038=&Texto a Buscar
-38039=Opciones:
-38040=&Diferenciar Min�s/May�sculas
-38041=&Palabras Completas Solamente
-38042=Direcci�n
-38043=&Archivos en Proyecto
-38044=Archivos Ab&iertos
-38045=Alcance
-38046=G&lobal
-38047=S&eleccionados Solamente
-38048=Origen
-38049=Desde Cursor
-38050=Alcance Completo
-38051=Direcci�n
-38052=Adelante
-38053=Atr�s
-38054=Pause console programs after return
-38055=Opened files at previous closing
-
-
-39001=Reemplazar Texto
-39002=Texto a Buscar:
-39003=Reemplazar Con:
-39004=Opciones:
-39005=&Diferenciar Min�s/May�sculas
-39006=&Palabras Completas Solamente
-39007=Pr&eguntar Reemplazo
-39008=Direcci�n:
-39009=A&delante
-39010=At&r�s
-39011=Alcance:
-39012=G&lobal
-39013=&Solamente Selecci�n
-39014=Origen:
-39015=Desde C&ursor
-39016=A&lcance Completo
-
-
-40001=Buscar por
-40002=Tipo
-40003=Funci�n
-40004=L�nea
-
-
-41001=Opciones de Compilaci�n
-41002=Compilador
-41003=Directorios
-41004=Generaci�n/Optimizaci�n de C�digo
-41005=Enlazador(linker)
-41006=Programas
-41007=For more information about GCC's options, please visit
-
-
-42001=Binarios
-42002=Librer�as
-42003=Cabeceras C
-42004=Cabeceras C++
-
-
-43001=Compilador C:
-43002=Compilador C++:
-43003=Compilador:
-43004=Output
-
-
-44001=Soportar todos los programas en C ANSI Estandar
-44002=Soportar Preprocesadores Tradicionales de C
-44003=Desactivar todos los Mensajes de Aviso (Warnings)
-44004=Desactivar todo el Chequeo de Acceso
-44005=Aceptar $ en identificadores
-44006=Usar Heur�stica para compilar m�s r�pido
-44007=Usar Compilador Cygwin en vez de Mingw
-44008=A�adir los siguientes comandos cuando llama al compilador
-44009=Retardo para el Compilador
-44010=Activa un Retraso en milisegs si Make notifica sobre la fecha del 
-44011=Mostrar un error por l�nea
-44012=Do not recognize asm, inline or typeof as a keyword (-fno-asm)
-44013=Check if pointer is null before accessing storage allocated (-fcheck-new)
-44014=Put uninitialized globals into the common segment (-fconserve-space)
-
+38017=மொழி:
+38018=செய்தி சாளர தாவல்கள்:
+38019=M x கோப்புகளின் எண்ணிக்கை மீண்டும் திறக்கும் மெனு
+38020=Dev-CPP கோப்பகம்
+38021=வெளியீட்டு கோப்பகம்
+38022=ஐகான் நூலகத்திற்கான பாதை
+38023=வாழ்த்து ஸ்கிரீன்ஷாட்
+38024=பயனர் இயல்புநிலை கோப்பகத்தைத் தேர்ந்தெடுக்கவும்
+38025=கம்பைலர் அவுட்புட் டைரக்டரியைத் தேர்ந்தெடுக்கவும்
+38026=ஐகான் லைப்ரரி டைரக்டரியைத் தேர்ந்தெடுக்கவும்
+38027=அனைத்து திட்ட கோப்புகளும்
+38028=திட்டத்தில் முதல் கோப்பு மட்டுமே
+38029=எதுவும் இல்லை
+38030=முழுத்திரை பயன்முறையில் மெனுவைக் காட்டு
+38031=திட்ட மேலாளர் கோப்புகளைத் திறக்க இருமுறை கிளிக் செய்யவும்
+38032=மொழி கோப்புகளுக்கான பாதை
+38033=தீம்:
+38034=இடைமுகம்
+38035=தேடல் உரை
+38036=தேடல்
+38037=கோப்புகளில் தேடவும்
+38038=&தேடுவதற்கு உரை
+38039=விருப்பங்கள்:
+38040=&மே எழுத்துப்பிழைகள் இல்லாமல் நிமிடத்தை வேறுபடுத்துங்கள்
+38041=&முழு வார்த்தைகள் மட்டும்
+38042=முகவரி
+திட்டத்தில் 38043=&கோப்புகள்
+38044=கோப்புகளைத் திற
+38045=நோக்கம்
+38046=ஜி&லோபல்
+38047=S&தேர்ந்தெடுக்கப்பட்டது மட்டும்
+38048=தோற்றம்
+38049=கர்சரிலிருந்து
+38050=முழு நோக்கம்
+38051=முகவரி
+38052=முன்னோக்கி
+38053=மீண்டும்
+38054=திரும்பிய பிறகு கன்சோல் நிரல்களை இடைநிறுத்தவும்
+38055=முந்தைய மூடலில் திறக்கப்பட்ட கோப்புகள்
+
+
+39001=உரையை மாற்றவும்
+39002=தேட வேண்டிய உரை:
+39003=இதனுடன் மாற்று:
+39004=விருப்பங்கள்:
+39005=&மே எழுத்துப்பிழைகள் இல்லாமல் நிமிடத்தை வேறுபடுத்துங்கள்
+39006=&முழு வார்த்தைகள் மட்டும்
+39007=மாற்று இடத்தைக் கேளுங்கள்
+39008=முகவரி:
+39009=A&Forward
+39010=அட்&ஆர் எஸ்
+39011=நோக்கம்:
+39012=ஜி&லோபல்
+39013=&தேர்வு மட்டும்
+39014=தோற்றம்:
+39015=C&ursor இலிருந்து
+39016=முழு வீச்சு
+
+
+40001=தேடு
+40002=வகை
+40003=செயல்பாடு
+40004=கோடு
+
+
+41001=தொகுப்பு விருப்பங்கள்
+41002=தொகுப்பாளர்
+41003=அடைவுகள்
+41004=குறியீடு உருவாக்கம்/உகப்பாக்கம்
+41005=இணைப்பாளர்
+41006=நிரல்கள்
+41007=GCC இன் விருப்பங்களைப் பற்றிய கூடுதல் தகவலுக்கு, தயவுசெய்து பார்வையிடவும்
+
+
+42001=பைனரி
+42002=நூலகம்
+42003=C தலைப்புகள்
+42004=C++ தலைப்புகள்
+
+
+43001=C கம்பைலர்:
+43002=C++ கம்பைலர்:
+43003=தொகுப்பாளர்:
+43004=வெளியீடு
+
+
+44001=C ANSI தரநிலையில் உள்ள அனைத்து நிரல்களையும் ஆதரிக்கவும்
+44002=பாரம்பரிய C முன்செயலிகளை ஆதரிக்கவும்
+44003=எல்லா எச்சரிக்கை செய்திகளையும் முடக்கு
+44004=அனைத்து அணுகல் சோதனையையும் முடக்கு
+44005=அடையாளங்காட்டிகளில் $ஐ ஏற்கவும்
+44006=வேகமாக தொகுக்க ஹியூரிஸ்டிக்ஸ் பயன்படுத்தவும்
+44007=Mingw க்குப் பதிலாக Cygwin Compiler ஐப் பயன்படுத்தவும்
+44008=கம்பைலரை அழைக்கும்போது பின்வரும் கட்டளைகளைச் சேர்க்கவும்
+44009=கம்பைலர் தாமதம்
+44010=மேக் தேதியைப் பற்றி அறிவித்தால் மில்லிசெக்குகளில் தாமதத்தை செயல்படுத்துகிறது
+44011=ஒரு வரிக்கு ஒரு பிழையைக் காட்டு
+44012=Asm, inline அல்லது typeof ஐ ஒரு முக்கிய சொல்லாக அங்கீகரிக்க வேண்டாம் (-fno-asm)
+44013= ஒதுக்கப்பட்ட சேமிப்பகத்தை அணுகுவதற்கு முன் சுட்டிக்காட்டி பூஜ்யமாக உள்ளதா என சரிபார்க்கவும் (-fcheck-new)
+44014=பொதுப் பிரிவில் (-fconserve-space) துவக்கப்படாத குளோபல்களை வைக்கவும்
+
 
-45001=Generaci�n de C�digo:
-45002=Optimizaci�n:
-
-
-46001=Activar Manejo de Excepciones
-46002=Usar mismo tama�o para tipo doble y flotante
-46003=Poner comentarios de informaci�n extra en c�digo generado de ensamblador
-46004=Optimizar
-46005=Mejor Optimizaci�n
-46006=Realizar un n�mero menor de optimizaciones
-46007=Generaci�n de archivo MAKEFILE
-46008=Usar Generaci�n de dependencias r�pida pero imperfecta
-46009=Estad�sticas de eficiencia (profiling) del C�digo
-46010=Generar informaci�n de Estad�sticas An�lisis de Perfil
-46011=Enlazar un programa en formato 'Objective C'
-46012=Generar Informaci�n de Depuraci�n
-46013=No usar archivos o librer�as est�ndares en el arranque del programa
-46014=No crear una ventana de consola
-46015=A�adir estos comandos a la l�nea de comandos del linker
-46016=No optimizar
-46017=Optimizar m�s
-46018=Do not assemble, but output assembler code (-S)
-46019=Use pipes instead of temporary files during compilation (-pipe)
-
-
-47001=Es posible cambiar los nombres de los programas que usa Dev-Cpp. (Por 
-47002=Paquete de Compilador a Configurar
-47003=Nuevo Paquete de Compilador
-47004=Ingrese el nombre para el nuevo Paquete de Compilador:
-47005=No puede borrar el �nico Paquete de Compilador!
-47006=Desea realmente borrar este Paquete de Compilador?
-47007=Cambiar de nombre al Paquete de Compilador
-47008=Ingrese el nuevo nombre para renombrar al Paquete de Compilaci�n:
-47009=M�s optimizaciones
-
-
-48001=Editor del Men� de Ayuda
-48002=Texto de Men�
-48003=Archivo de Ayuda
-48004=Opciones en Men� de Ayuda
-48005=Icono
-48006=Secci�n de Men�
-48007=Secci�n 1
-48008=Secci�n 2
-48009=Men� Desplegable para Ayuda
-48010=Acciones
-48011=Buscar en Archivo de Ayuda por la palabra bajo el cursor
-48012=Asignar la tecla r�pida F1
-48013=Show most warnings (-Wall)
-48014=Show some more warnings (-Wextra)
-48015=Check ISO C/C++/C++0x conformance (-pedantic)
-48016=Code Warnings
-48017=Only check the code for syntax errors (-fsyntax-only)
-48018=Make all warnings into errors (-Werror)
-48019=Abort compilation on first error (-Wfatal-errors)
-
-
-49001=Imprimir Archivo
-49002=Par�metros:
-49003=P�ginas:
-49004=&Colores
-49005=&Resaltado
-49006=&Cortar Palabras
-49007=N�meros de &L�nea
-49008=Imprimir N�meros de L�nea
-49009=Imprimir N�meros de L�nea en Margen
-49010=N�mero de Copias:
-49011=Imprimir Solamente Selecci�n
-49012=Don't Print Line Numbers
-
-
-50001=Revisar Actualizaciones de Dev-C++
-50002=Tarea:
-50003=Resultados:
-50004=Versi�n de Liberaci�n:
-50005=Versi�n necesaria para usar con:
-50006=Descripci�n de Liberaci�n:
-50007=Sitio de Descarga (doble click para bajar):
-
-
-51001=Agregar a Tareas por Hacer
-51002=Descripci�n
-51003=Prioridad
-51004=Usuario
-
-
-52001=Lista de "Tareas por Hacer"
-52002=Nombre de archivo
-52003=Realizado
-52004=No mostrar items marcados como Realizado
-52005=Filtro
-52006=Todos los archivos (dentro y Fuera del proyecto)
-52007=S�lo abrir archivos (dentro y fuera del proyecto)
-52008=Todos los archivos del proyecto
-52009=Archivos abiertos solamente del proyecto
-52010=Archivos abiertos que no son del proyecto
-52011=Archivo actual solamente
-
-
-53001=Proyecto MS Visual C++
-53002=Seleccione archivo de proyecto VC++
-53003=Opciones de Importaci�n
-53004=Configuraci�n para importar
-53005=Nombre de archivo para proyecto Dev-Cpp
-53006=El archivo de proyecto MS VC++ ha sido importado y convertido a proyecto 
-53007=Cannot locate target configuration "%s" (this is probably a bug in Dev-C++)...
-
-
-54001=Import Code::Blocks project
-54002=Select Code::Blocks project file
-54003=Import options
-54004=Configuration to import
-54005=Dev-C++ project filename
-54006=The Code::Blocks project file has been imported and converted to a Dev-C++ project succesfully! Do you want to open it now?
-54007=Cannot locate target configuration "%s" (this is probably a bug in Dev-C++)...
-
-
-55001=Opciones de Proyecto
-55002=Generales
-55003=Archivos/Directorios
-55004=Nombre:
-55005=Icono:
-55006=Librer�a
-55007=Examinar
-55008=Tipo:
-55009=Win32 GUI gr�fico
-55010=Consola Win32
-55011=Libreria Est�tica Win32
-55012=Librer�a DLL Win32
-55013=Compilar como C++
-55014=Opciones Adicionales de L�nea de Comando:
-55015=Compilador:
-55016=Opciones de Enlazador: Librer�as u Objetos Opcionales
-55017=Directorios de Librer�as (.a .lib .dll)
-55018=Archivos de recursos
-55019=Directorios de Include
-55020=Seleccionar Icono
-55021=Incluir un Archivo de Objeto
-55022=Directorios de recursos
-55023=Opciones de Construcci�n
-55024=Directorios
-55025=Directorio de salida para archivo ejecutable
-55026=Directorio de salida para archivo objeto
-55027=Sobreescribir archivo de salida
-55028=Agregar Librer�a u Objeto
-55029=%d archivos [%d fuentes, %d cabeceras, %d recursos]
-
-
-56001=Nombre:
-56002=Descripci�n:
-56003=Categor�a:
-56004=Nombre del Nuevo Proyecto:
-56005=Archivos en plantilla:
-56006=Opciones extra para el Compilador:
-56007=Opciones extra para el Enlazador:
-56008=Iconos:
-56009=Informaci�n de la plantilla
-56010=Archivos
-56011=Extra(s)
-56012=Icono de la plantilla
-56013=Icono del nuevo proyecto
-56014=Crear
-56015=Nueva plantilla desde proyecto
-56016=Use directorios Include del proyecto
-56017=Use directorios de Librer�as del proyecto
-56018=Use directorios de Recursos del proyecto
-
-
-57001=Tipo de retorno:
-57002=Nombre de variable:
-57003=Implementado en:
-57004=Alcance del acceso:
-57005=Crear funci�n miembro para LEER desde esta variable
-57006=Crear funci�n miembro para ESCRIBIR a esta variable
-57007=Nombre:
-57008=Comentarios
-57009=Descripci�n:
-57010=Estilo:
-57011=Crear
-57012=Cancelar
-57013=Clase desconocida ...
-57014=No se puede determinar el nombre de archivo para implementaci�n ...
-57015=No es posible deteminar el n�mero de l�nea para insertar c�digo ...
-57016=Nombre del miembro:
-57017=Argumentos:
-57018=Nombre de la clase:
-57019=Heredar de otra clase
-57020=Herencia
-57021=Heredar desde clase:
-57022=Nombre de archivo de encabezado:
-57023=Nombre de archivo de Implementaci�n:
-57024=Nombre de archivo de encabezado:
-57025=Agregar al proyecto actual
-57026=Atributos
-
-
-58001=Nombre de archivo
-58002=En proyecto
-58003=Total de l�neas
-58004=L�neas de c�digo
-58005=L�neas de comentarios
-58006=Archivos incluidos
-58007=L�neas vac�as
-58008=Tama�o del archivo
-58009=Absoluto
-58010=Archivo MAKEFILE
-58011=Relativo
-58012=Fecha y Hora del Archivo
-58013=Configuraci�n para el compilador
-
-
-59001=An�lisis de Perfil de ejecuci�n
-59002=Salida plana
-59003=Gr�fico de llamadas
-59004=Profiling Options
-59005=Function Hiding
-59006=Hide functions not called long enough
-59007=Hide statically linked file-local functions
-59008=Hide function called less than
-59009=times
-59010=Apply
-59011=Custom Commands
-59012=Use these commands instead:
-
-
-60001=Cadena de b�squeda ''%s'' no encontrada
-60002=Archivo %s no pudo ser abierto
-60003=Reemplazar esta occurencia ''%s'?
-60004=Archivo: %s ya existe en %s
-60005=�Desea realmente Cerrar %s?
-60006=�Guardar cambios a %s?
-60007=�Cerrar %s y comenzar nuevo proyecto?
-60008=Renombrar a:
-60009=Ya Compilando
-60010=�Desea guardar Cambios a %s?
-60011=Archivo ya existe, �Sobreescribir?
-60012=�A�adir Nuevo Archivo al Proyecto?
-60013=�A�adir Nuevo Archivo de Recurso al Proyecto?
-60014=El proyecto no tiene informaci�n para depuraci�n. �Desea activar 
-60015=No ha habilitado An�lisis Perfil de Ejecuci�n y/o Depuraci�n. �Desea 
-60016=Debe Ejecutar el proyecto al menos una vez para que se genere 
-60017=Ingrese nuevo nombre de carpeta:
-60018=Realmente desea borrar esta carpeta?
-60019=Ingrese el nuevo nombre de carpeta:
-60020=El archivo %s es s�lo de lectura. �Desea cambiarlo a modo lectura y 
-60021=Error: El archivo %s no fue cambiado a modo lectura y escritura y no 
-60022=Se ha producido una violaci�n de acceso a memoria (fallo de 
-60023=El archivo fuente es m�s reciente que el ejecutable. �Desea reconstruir 
-60024=Please select the application you want to attach to:
-
-
-61001=No se puede abrir Archivo %s
-61002=No se puede guardar Archivo %s
-61003=No se puede renombrar archivo %s
-61004=Campo de B�squeda no puede estar vac�o
-61005=El Proyecto no es Ejecutable
-61006=El Proyecto no est� Compilado
-61007=Archivo Fuente no Compilado
-61008=Archivo MAKE no encontrado
-61009=Fall� operaci�n Limpiar
-61010=Plantilla no pudo ser puesta en el Proyecto
-61011=%s Recurso no encontrado: %s - %s
-61012=Archivo de Plantilla %s no encontrado, Saltando
-61013=No hay ninguna Plantilla Asignada
-61014=Archivo %s no encontrado
-61015=No se ha indicado Aplicaci�n Anfitriona. Puede indicarla en el men� 
-61016=Aplicaci�n Anfitriona no encontrada! Puede indicarla en el men� 
-
-
-62001=Sin Nombre
-62002=S�lo Lectura
-62003=Insertar
-62004=Sobreescribir
-62005=Proyecto %d
-62006=Por favor use otro nombre
-62007=%d L�neas en Archivo
-62008=Renombrar Archivo
-62009=Ejecutando %s
-62010=Ejecuci�n Terminada
-62011=Bytes
-62012=Modificado
-62013=Error:
-62014=Informaci�n
-62015=Advertencia
-62016=Pregunta
-62017=Ejecuci�n Terminada Sin Novedad
-62018=Compilaci�n Cancelada por el Usuario
-62019=Line:%6d               Col:%6d               Sel:%6d               Lines:%6d               Length:%6d
-62020=Done parsing
-
-
-63001=&Aceptar
-63002=&Cancelar
-63003=A&yuda
-63004=Por &Omisi�n
-63005=&S�
-63006=&No
-63007=A�ad&ir
-63008=&Editar
-63009=Re&mover
-63010=&Borrar
-63011=Ce&rrar
-63012=Au&tores
-63013=&Buscar
-63014=&Reemplazar
-63015=Borrar &Inv�lido
-63016=Reemp&lazar Todo
-63017=&Examinar
-63018=&Remover
-63019=Re&nombrar
-63020=&Importar
-63021=Modo Ventana
-63022=Limpiar
-
-
-64001=Ventana de CPU
-64002=C�digo ensamblador :
-64003=Funci�n :
-64004=Sintaxis ensamblador :
-64005=Registros :
-
-
-65001=Sugerencia del d�a
-65002=Sabia Usted que...
-65003=...no hay sugerencias para mostrar
-65004=No mostrar Sugerencias del D�a al iniciar este programa
-65005=Sig. sugerencia
-65006=Sugerencia ant.
-
-
-66001=Asociaciones de Archivos
-66002=Tipos de archivos:
-66003=Active o desactive la marca para los tipos de archivos que Windows 
-66004=Soporte CVS
-66005=Archivo de Programa CVS
-66006=Nivel de Compresi�n
-66007=Usar SSH (seguro) en vez de RSH
-66008=Directorio de Plantillas
-66009=Seleccionar Directorio de Plantillas
-66010=Presentaci�n modo XP
-66011=Programas externos
-66012=Programa externo
-66013=Extensi�n
-66014=Asociaciones con programas externos:
-66015=Vigilar variable bajo el cursor del rat�n
-66016=Reportar errores de vigilancia
-66017=Examinar variables de depuraci�n
-66018=Archivo de configuraci�n alterno
-66019=Usar este archivo de configuraci�n alterno
-66020=You changed the configuration file to be used by the application.<CR>The new configuration file will *not* be used in the current session. Any configuration changes you do in this session, will be saved in the *currently* open configuration file.<CR><CR>It is suggested that you restart the application now, so that it starts using the new configuration file...
-66021=Dev-C++ was unable to set file associations.<CR><CR>This is known to be caused by using UAC on a normal non-admin user account.<CR><CR>Please disable UAC or run Dev-C++ as an admin if you want to change file associations using Dev-C++.<CR><CR>You might want to try the "Default Programs" feature in Windows Vista or 7.
-66022=UI font
-
-
-67001=Argumentos del programa...
-67002=Compilar archivo actual
-
-
-68001=Lista de Ventanas
-68002=Seleccione la ventana que desea editar :
-
-
-69001=Archivo actual...
-69002=Proyecto completo...
-69003=Configure soporte CVS en "Herramientas / Opciones de Entorno"...
-
-
-70001=Opciones de Importaci�n
-70002=Repositorio (Sitio de almacenamiento)
-70003=Opciones Globales
-70004=Opciones de Verificaci�n
-70005=Opciones de Conclusi�n (Commit)
-70006=Opciones de Actualizaci�n
-70007=Opciones de Diferencias
-70008=Opciones de Registro de Sucesos
-70009=Salida CVS
-70010=Importar
-70011=Verificaci�n
-70012=Conclusi�n (Commit)
-70013=Actualizaci�n
-70014=Diferencias
-70015=Registro de Sucesos
-70016=Directorio de Importaci�n
-70017=Acci�n
-70018=Vendedor
-70019=Versi�n
-70020=Mensaje de Registro
-70021=Nombre del m�dulo
-70022=Extensi�n
-70023=Verifique como
-70024=Directorio de Verificaci�n
-70025=Incluir subdirectorios
-70026=Reiniciar opciones agregadas
-70027=Crear directorios faltantes
-70028=Remover directorios vac�os
-70029=Cancelar cambios realizados localmente
-70030=Antes de la fecha
-70031=Marca/Revisi�n/Ramificaci�n
-70032=Si no existe, obtenga el m�s reciente
-70033=Otras revisiones
-70034=Ejecute un diff unificado
-70035=Compare archivo local con remoto misma revisi�n/marca
-70036=Compare archivo local con remoto diferente revisi�n
-70037=Compare dos revisiones remotas
-70038=Es fecha
-70039=Registre la ramificaci�n por omisi�n
-70040=Listar solo el nombre de archivo RCS
-70041=No muestre nombres de marcas
-70042=Filtro
-70043=Por revisi�n/marca
-70044=Por Fecha
-70045=Por Usuario
-70046=Repositorio
-70047=Detalles
-70048=M�todo de Acceso
-70049=Usuario
-70050=Servidor
-70051=Directorio remoto
-70052=Agregar
-70053=Remover
-70054=Opciones de Agregar
-70055=Opciones de Remover
-70056=Remover adem�s del archivo del disco...
-
-
-71001=Argumentos para el programa
-71002=Argumentos para enviar al programa :
-71003=Aplicaci�n Anfitriona :
-
-
-72001=Archivos
-72002=Archivos de Proyecto:
-72003=Opciones de Proyecto:
-72004=Generar informaci�n para depuraci�n
-72005=Generar informaci�n para perfilamiento
-72006=NOTA: Estas configuraciones se aplican solo a este proyecto y tienen 
-72007=Soportar Modo Windows XP
-72008=Opciones de Archivo Fuente:
-72009=Incluir en compilaci�n
-72010=Compilar Archivo Fuente como C++
-72011=Informaci�n de Versi�n
-72012=Incluir Informaci�n de Versi�n en Proyecto
-72013=Detalles de Versi�n
-72014=Mayor:
-72015=Menor:
-72016=Actualizaci�n (Release):
-72017=Construcci�n (Build):
-72018=Lenguaje:
-72019=Informaci�n Adicional:
-72020=Sobreponer a Comando de Construcci�n
-72021=Archivo de Salida
-72022=Incluir en Enlace
-72023=Prioridad de Construcci�n:
-72024=Auto-incrementar n�mero de construcci�n al compilar
-72025=Usar el Makefile de costumbre (no generar ninguno, usar �ste)
-72026=Informaci�n acerca del Makefile de costumbre...
-72027=Incluir el siguiente archivo dentro del Makefile:
-72028=Sync product with file version
-72029=Default to C++ when creating new files
-
-
-73001=Tira ejecutable
-73002=Generar instrucciones para la m�quina siguiente
-73003=Permitir el uso de las funciones espec�ficas del prosesador
-73004=Optimization level (-Ox)
-73005=Language standard (-std)
-73006=Compile with the following bit width (-mx)
-73007=Optimize less, while maintaining full compatibility (-mtune)
-
-
-74001=Compiler:
-74002=Status:
-74003=File:
-74004=Errors:
-74005=Warnings:
+45001=குறியீடு உருவாக்கம் நான் சொல்கிறேன்:
+45002=உகப்பாக்கம்:
+
+
+46001=விதிவிலக்கு கையாளுதலை இயக்கு
+46002=இரட்டை மற்றும் மிதக்கும் வகைக்கு ஒரே அளவைப் பயன்படுத்தவும்
+46003=உருவாக்கப்பட்ட அசெம்பிளர் குறியீட்டில் கூடுதல் தகவல் கருத்துகளை வைக்கவும்
+46004=உகப்பாக்கவும்
+46005=சிறந்த மேம்படுத்தல்
+46006=குறைந்த எண்ணிக்கையிலான மேம்படுத்தல்களைச் செய்யவும்
+46007=MAKEFILE கோப்பு உருவாக்கம்
+46008=வேகமான ஆனால் முழுமையற்ற சார்பு தலைமுறையைப் பயன்படுத்தவும்
+46009=குறியீடு திறன் (சுயவிவரம்) புள்ளிவிவரங்கள்
+46010=சுயவிவர பகுப்பாய்வு புள்ளிவிவரத் தகவலை உருவாக்கவும்
+46011='Objective C' வடிவத்தில் ஒரு நிரலை இணைக்கவும்
+46012=பிழைத்திருத்தத் தகவலை உருவாக்கவும்
+46013=நிரலைத் தொடங்கும் போது நிலையான கோப்புகள் அல்லது நூலகங்களைப் பயன்படுத்த வேண்டாம்
+46014=கன்சோல் சாளரத்தை உருவாக்க வேண்டாம்
+46015=இந்த கட்டளைகளை இணைப்பான் கட்டளை வரியில் சேர்க்கவும்
+46016=மேம்படுத்த வேண்டாம்
+46017=மேலும் மேம்படுத்து
+46018=அசெம்பிள் செய்ய வேண்டாம், ஆனால் அவுட்புட் அசெம்பிளர் குறியீடு (-S)
+46019=தொகுப்பின் போது தற்காலிக கோப்புகளுக்கு பதிலாக குழாய்களை பயன்படுத்தவும் (-pipe)
+
+
+47001=Dev-Cpp பயன்படுத்தும் நிரல்களின் பெயர்களை மாற்ற முடியும். (மூலம்
+47002=கட்டமைக்க கம்பைலர் தொகுப்பு
+47003=புதிய கம்பைலர் தொகுப்பு
+47004=புதிய கம்பைலர் பேக்கேஜின் பெயரை உள்ளிடவும்:
+47005=ஒரே கம்பைலர் தொகுப்பை நீக்க முடியாது!
+47006=இந்த கம்பைலர் தொகுப்பை உண்மையில் நீக்க விரும்புகிறீர்களா?
+47007=கம்பைலர் தொகுப்பை மறுபெயரிடவும்
+47008=பில்ட் பேக்கேஜை மறுபெயரிட புதிய பெயரை உள்ளிடவும்:
+47009=மேலும் மேம்படுத்தல்கள்
+
+
+48001=உதவி மெனு எடிட்டர்
+48002=பட்டி உரை
+48003=உதவி கோப்பு
+48004=உதவி மெனு விருப்பங்கள்
+48005=ஐகான்
+48006=மெனு பிரிவு
+48007=பிரிவு 1
+48008=பிரிவு 2
+48009=உதவி கீழ்தோன்றும் மெனு
+48010=செயல்கள்
+48011=கர்சரின் கீழ் வார்த்தைக்கான உதவிக் கோப்பைத் தேடவும்
+48012=F1 ஹாட்கியை ஒதுக்கவும்
+48013=பெரும்பாலான எச்சரிக்கைகளைக் காட்டு (-சுவர்)
+48014=மேலும் சில எச்சரிக்கைகளைக் காட்டு (-வெக்ஸ்ட்ரா)
+48015=ஐஎஸ்ஓ சி/சி++/சி++0x இணக்கத்தை சரிபார்க்கவும் (-பெடான்டிக்)
+48016=குறியீடு எச்சரிக்கைகள்
+48017= தொடரியல் பிழைகளுக்கான குறியீட்டை மட்டும் சரிபார்க்கவும் (-fsyntax-only)
+48018=எல்லா எச்சரிக்கைகளையும் பிழைகளாக மாற்றவும் (-Werror)
+48019=முதல் பிழையில் தொகுப்பை நிறுத்து (-Wfatal-errors)
+
+
+49001=கோப்பை அச்சிடு
+49002=ஜோடி மீட்டர்:
+49003=பக்கங்கள்:
+49004=&நிறங்கள்
+49005=&ஹைலைட் செய்யப்பட்டது
+49006=&சொற்களை வெட்டு
+49007=&வரிகளின் எண்ணிக்கை
+49008=அச்சு வரி எண்கள்
+49009=வரி எண்களை விளிம்பில் அச்சிடுக
+49010=பிரதிகளின் எண்ணிக்கை:
+49011=அச்சு தேர்வு மட்டும்
+49012=வரி எண்களை அச்சிட வேண்டாம்
+
+
+50001=Dev-C++ புதுப்பிப்புகளைச் சரிபார்க்கவும்
+50002=பணி:
+50003=முடிவுகள்:
+50004=வெளியீட்டு பதிப்பு:
+50005=பயன்படுத்துவதற்கு பதிப்பு தேவை:
+50006=வெளியீடு விளக்கம்:
+50007=பதிவிறக்க தளம் (பதிவிறக்க இருமுறை கிளிக் செய்யவும்):
+
+
+51001=செய்ய வேண்டியதைச் சேர்
+51002=விளக்கம்
+51003=முன்னுரிமை
+51004=பயனர்
+
+
+52001="செய்ய வேண்டியவை" பட்டியல்
+52002=கோப்பின் பெயர்
+52003=முடிந்தது
+52004=முடிந்தது எனக் குறிக்கப்பட்ட உருப்படிகளைக் காட்ட வேண்டாம்
+52005=வடிகட்டி
+52006=அனைத்து கோப்புகளும் (திட்டத்தின் உள்ளேயும் வெளியேயும்)
+52007=கோப்புகளைத் திறக்க வேண்டாம் (திட்டத்தின் உள்ளேயும் வெளியேயும்)
+52008=அனைத்து திட்ட கோப்புகளும்
+52009=திட்டக் கோப்புகளை மட்டும் திற
+52010=திட்டம் அல்லாத கோப்புகளைத் திறக்கவும்
+52011=தற்போதைய கோப்பு மட்டும்
+
+
+53001=MS விஷுவல் சி++ திட்டம்
+53002=VC++ திட்டக் கோப்பைத் தேர்ந்தெடுக்கவும்
+53003=இறக்குமதி விருப்பங்கள்
+53004=இறக்குமதி செய்வதற்கான கட்டமைப்பு
+53005=Dev-Cpp திட்டத்திற்கான கோப்பு பெயர்
+53006=MS VC++ திட்டக் கோப்பு இறக்குமதி செய்யப்பட்டு திட்டமாக மாற்றப்பட்டது
+53007=இலக்கு உள்ளமைவை "%s" கண்டுபிடிக்க முடியவில்லை (இது டெவ்-சி++ இல் உள்ள பிழையாக இருக்கலாம்)...
+
+
+54001=இறக்குமதி குறியீடு::பிளாக்ஸ் திட்டம்
+54002=குறியீட்டைத் தேர்ந்தெடு::திட்டக் கோப்பைத் தடுக்கிறது
+54003=இறக்குமதி விருப்பங்கள்
+54004=இறக்குமதி செய்வதற்கான கட்டமைப்பு
+54005=Dev-C++ திட்ட கோப்பு பெயர்
+54006=குறியீடு::பிளாக்ஸ் திட்டக் கோப்பு இறக்குமதி செய்யப்பட்டு, டெவ்-சி++ திட்டத்திற்கு வெற்றிகரமாக மாற்றப்பட்டது! இப்போது திறக்க வேண்டுமா?
+54007=இலக்கு உள்ளமைவை "%s" கண்டுபிடிக்க முடியவில்லை (இது அநேகமாக Dev-C++ இல் பிழையாக இருக்கலாம்)...
+
+
+55001=திட்ட விருப்பங்கள்
+55002=பொது
+55003=கோப்புகள்/அடைவுகள்
+55004=பெயர்:
+55005=ஐகான்:
+55006=இலவசம்
+55007=உலாவு
+55008=வகை:
+55009=Win32 GUI கிராஃபிக்
+55010=Win32 கன்சோல்
+55011=Win32 நிலையான நூலகம்
+55012=இலவச Win32 DLL
+55013=C++ ஆக தொகுக்கவும்
+55014=கூடுதல் கட்டளை வரி விருப்பங்கள்:
+55015=தொகுப்பாளர்:
+55016=இணைப்பு விருப்பங்கள்: விருப்ப நூலகங்கள் அல்லது பொருள்கள்
+55017=நூலக கோப்பகங்கள் (.a .lib .dll)
+55018=ஆதார கோப்புகள்
+55019=கோப்பகங்களைச் சேர்க்கவும்
+55020=ஐகானை தேர்ந்தெடு
+55021=ஒரு பொருள் கோப்பைச் சேர்க்கவும்
+55022=வள அடைவுகள்
+55023=கட்டுமான விருப்பங்கள்
+55024=அடைவுகள்
+55025=இயக்கக்கூடிய கோப்பிற்கான வெளியீட்டு அடைவு
+55026=ஆப்ஜெக்ட் கோப்பிற்கான அவுட்புட் டைரக்டரி
+55027=வெளியீட்டு கோப்பை மேலெழுதவும்
+55028=பொருளுக்கு நூலகத்தைச் சேர்
+55029=%d கோப்புகள் [%d மூலங்கள், %d தலைப்புகள், %d ஆதாரங்கள்]
+
+
+56001=பெயர்:
+56002=விளக்கம்:
+56003=வகை a:
+56004=புதிய திட்டப் பெயர்:
+56005=டெம்ப்ளேட் கோப்புகள்:
+56006=கம்பைலருக்கான கூடுதல் விருப்பங்கள்:
+56007=இணைப்பாளருக்கான கூடுதல் விருப்பங்கள்:
+56008=சின்னங்கள்:
+56009=வார்ப்புரு தகவல்
+56010=கோப்புகள்
+56011=கூடுதல்(கள்)
+56012=வார்ப்புரு ஐகான்
+56013=புதிய திட்ட சின்னம்
+56014=உருவாக்கு
+56015=திட்டத்திலிருந்து புதிய டெம்ப்ளேட்
+56016=கோப்பகங்களை உள்ளடக்கிய திட்டத்தைப் பயன்படுத்தவும்
+56017=திட்ட நூலக கோப்பகங்களைப் பயன்படுத்தவும்
+56018=திட்ட ஆதார கோப்பகங்களைப் பயன்படுத்தவும்
+
+
+57001=திரும்ப வகை:
+57002=மாறி பெயர்:
+57003=இதில் செயல்படுத்தப்பட்டது:
+57004=அணுகல் நோக்கம்:
+57005=இந்த மாறியிலிருந்து படிக்க உறுப்பினர் செயல்பாட்டை உருவாக்கவும்
+57006=இந்த மாறிக்கு எழுத உறுப்பினர் செயல்பாட்டை உருவாக்கவும்
+57007=பெயர்:
+57008=கருத்துகள்
+57009=விளக்கம்:
+57010=நடை:
+57011=உருவாக்கு
+57012=ரத்துசெய்
+57013=தெரியாத வகுப்பு...
+57014=வரிசைப்படுத்தலுக்கான கோப்பு பெயரை தீர்மானிக்க முடியவில்லை...
+57015=குறியீட்டைச் செருகுவதற்கான வரி எண்ணைத் தீர்மானிக்க முடியாது...
+57016=உறுப்பினர் பெயர்:
+57017=வாதங்கள்:
+57018=வகுப்பு பெயர்:
+57019=மற்றொரு வகுப்பிலிருந்து பெறு
+57020=பரம்பரை
+57021=வகுப்பிலிருந்து மரபுரிமை:
+57022=தலைப்பு கோப்பு பெயர்:
+57023=செயல்படுத்தல் கோப்பு பெயர்:
+57024=தலைப்பு கோப்பு பெயர்:
+57025=தற்போதைய திட்டத்தில் சேர்
+57026=பண்புகள்
+
+
+58001=கோப்பின் பெயர்
+58002=திட்டத்தில்
+58003=மொத்த வரிகள்
+58004=குறியீடு கோடுகள்
+58005=கருத்து வரிகள்
+58006=கோப்புகள் சேர்க்கப்பட்டுள்ளன
+58007=வெற்று கோடுகள்
+58008=கோப்பின் அளவு
+58009=முழுமையானது
+58010=MAKEFILE கோப்பு
+58011=உறவினர்
+58012=கோப்பு தேதி மற்றும் நேரம்
+58013=கம்பைலர் உள்ளமைவு
+
+
+59001=எக்ஸிகியூஷன் சுயவிவர பகுப்பாய்வு
+59002=பிளாட் வெளியீடு
+59003=அழைப்பு வரைபடம்
+59004=புரொஃபைலிங் விருப்பங்கள்
+59005=செயல்பாடு மறைத்தல்
+59006=செயல்பாடுகளை மறைத்தல் போதுமானதாக இல்லை
+59007=நிலையான இணைக்கப்பட்ட கோப்பு-உள்ளூர் செயல்பாடுகளை மறை
+59008=குறைவானது எனப்படும் மறை செயல்பாடு
+59009=மடங்கு
+59010=விண்ணப்பிக்கவும்
+59011=தனிப்பயன் கட்டளைகள்
+59012=இதற்குப் பதிலாக இந்தக் கட்டளைகளைப் பயன்படுத்தவும்:
+
+
+60001=தேடல் சரம் ''%s'' கிடைக்கவில்லை
+60002=%s கோப்பை திறக்க முடியவில்லை
+60003=இந்த நிகழ்வை '%s' மாற்றவா?
+60004=கோப்பு: %s ஏற்கனவே %s இல் உள்ளது
+60005= நீங்கள் உண்மையில் %s ஐ மூட விரும்புகிறீர்களா?
+60006=%s இல் மாற்றங்களைச் சேமிக்கவா?
+60007= %s ஐ மூடிவிட்டு புதிய திட்டத்தை தொடங்கவா?
+60008=இதற்கு மறுபெயரிடவும்:
+60009=ஏற்கனவே தொகுக்கிறது
+60010= மாற்றங்களை %s இல் சேமிக்க விரும்புகிறீர்களா?
+60011=கோப்பு ஏற்கனவே உள்ளது, மேலெழுதவா?
+60012=திட்டத்தில் புதிய கோப்பை சேர்க்கவா?
+60013= திட்டத்தில் புதிய ஆதாரக் கோப்பைச் சேர்க்கவும்செய்ய?
+60014=பிராஜெக்டில் பிழைத்திருத்தத்திற்கான தகவல் இல்லை. நீங்கள் செயல்படுத்த விரும்புகிறீர்களா
+60015=நீங்கள் செயல்படுத்தல் சுயவிவர பகுப்பாய்வு மற்றும்/அல்லது பிழைத்திருத்தத்தை இயக்கவில்லை. விரும்பும்
+60016=புராஜெக்ட் உருவாக்கப்படுவதற்கு ஒரு முறையாவது அதை இயக்க வேண்டும்
+60017=புதிய கோப்புறை பெயரை உள்ளிடவும்:
+60018=உண்மையிலேயே இந்தக் கோப்புறையை நீக்க விரும்புகிறீர்களா?
+60019=புதிய கோப்புறை பெயரை உள்ளிடவும்:
+60020=%s கோப்பு படிக்க மட்டுமே. நீங்கள் அதை வாசிப்பு முறைக்கு மாற்ற விரும்புகிறீர்கள்
+60021=பிழை: %s கோப்பு படிக்க மற்றும் எழுதும் பயன்முறைக்கு மாற்றப்படவில்லை மற்றும் மாற்றப்படவில்லை
+60022=நினைவக அணுகல் மீறல் ஏற்பட்டது (நினைவக தோல்வி).
+60023=மூலக் கோப்பு இயங்கக்கூடியதை விட புதியது. நீங்கள் மீண்டும் உருவாக்க விரும்புகிறீர்கள்
+60024=நீங்கள் இணைக்க விரும்பும் பயன்பாட்டைத் தேர்ந்தெடுக்கவும்:
+
+
+61001=%s கோப்பை திறக்க முடியவில்லை
+61002=%s கோப்பைச் சேமிக்க முடியவில்லை
+61003=%s கோப்பை மறுபெயரிட முடியாது
+61004=தேடல் புலம் காலியாக இருக்க முடியாது
+61005=திட்டம் செயல்படுத்தக்கூடியது அல்ல
+61006=திட்டம் தொகுக்கப்படவில்லை
+61007=மூலக் கோப்பு தொகுக்கப்படவில்லை
+61008=மேக்ஃபைல் கிடைக்கவில்லை
+61009=சுத்தமான செயல்பாடு தோல்வியடைந்தது
+61010=திட்டத்தில் டெம்ப்ளேட்டை வைக்க முடியவில்லை
+61011=%s ஆதாரம் இல்லை: %s - %s
+61012=வார்ப்புரு கோப்பு %s கிடைக்கவில்லை, தவிர்க்கிறது
+61013=ஒதுக்கப்பட்ட டெம்ப்ளேட் எதுவும் இல்லை
+61014=%s கோப்பு காணப்படவில்லை
+61015=புரவலன் விண்ணப்பம் எதுவும் குறிப்பிடப்படவில்லை. நீங்கள் அதை மெனுவில் குறிப்பிடலாம்
+61016=ஹோஸ்ட் விண்ணப்பம் கிடைக்கவில்லை! நீங்கள் அதை மெனுவில் குறிப்பிடலாம்
+
+
+62001=பெயர் இல்லை
+62002=படிக்க மட்டும்
+62003=செருகு
+62004=மேலெழுதவும்
+62005=திட்டம் %d
+62006=தயவுசெய்து வேறு பெயரைப் பயன்படுத்தவும்
+62007=கோப்பில் %d கோடுகள்
+62008=கோப்பை மறுபெயரிடவும்
+62009=%s இயங்குகிறது
+62010=செயல்படுத்துதல் முடிந்தது
+62011=பைட்டுகள்
+62012=மாற்றியமைக்கப்பட்டது
+62013=பிழை:
+62014=தகவல்
+62015=எச்சரிக்கை
+62016=கேள்வி
+62017=செய்தி இல்லாமல் நிறைவேற்றப்பட்டது
+62018=தொகுப்பு பயனரால் ரத்து செய்யப்பட்டது
+62019=வரி:%6d Col:%6d செல்:%6d கோடுகள்:%6d நீளம்:%6d
+62020=பகுத்தல் முடிந்தது
+
+
+63001=&ஏற்றுக்கொள்
+63002=&ரத்துசெய்
+63003=உதவி
+63004=&தவிர்ப்பதன் மூலம்
+63005=&எஸ்
+63006=&எண்
+63007=சேர்க்க
+63008=&திருத்து
+63009=மீண்டும்& நகர்த்தவும்
+63010=&நீக்கு
+63011=மூடு
+63012=ஆசிரியர்கள்
+63013=&தேடல்
+63014=&மாற்று
+63015=நீக்கு &தவறு
+63016=அனைத்தையும் மாற்றவும்
+63017=&உலாவு
+63018=&நீக்கு
+63019=மறு&பெயர்
+63020=&இறக்குமதி
+63021=சாளர முறை
+63022=தெளிவு
+
+
+64001=CPU சாளரம்
+64002=C நான் அசெம்பிளர் என்று சொல்கிறேன்:
+64003=செயல்பாடு:
+64004=அசெம்பிளர் தொடரியல்:
+64005=பதிவுகள்:
+
+
+65001=நாள் குறிப்பு
+65002=அது உங்களுக்கு தெரியுமா...
+65003=...காட்ட எந்த பரிந்துரைகளும் இல்லை
+65004=இந்த திட்டத்தை தொடங்கும் போது நாள் குறிப்புகளை காட்ட வேண்டாம்
+65005=சிக். பரிந்துரை
+65006=முந்தைய பரிந்துரை.
+
+
+66001=கோப்பு சங்கங்கள்
+66002=கோப்பு வகைகள்:
+66003=விண்டோஸின் கோப்பு வகைகளுக்கான கொடியை இயக்கவும் அல்லது முடக்கவும்
+66004=CVS ஆதரவு
+66005=CVS நிரல் கோப்பு
+66006=அமுக்க நிலை
+66007=RSH க்குப் பதிலாக SSH (பாதுகாப்பானது) பயன்படுத்தவும்
+66008=வார்ப்புரு கோப்பகம்
+66009=டெம்ப்ளேட் கோப்பகத்தைத் தேர்ந்தெடுக்கவும்
+66010=XP பயன்முறை விளக்கக்காட்சி
+66011=வெளிப்புற திட்டங்கள்
+66012=வெளிப்புற நிரல்
+66013=நீட்டிப்பு
+66014=வெளிப்புற நிரல்களுடன் தொடர்புகள்:
+66015=மவுஸ் கர்சரின் கீழ் மானிட்டர் மாறி
+66016=கண்காணிப்புப் பிழைகளைப் புகாரளிக்கவும்
+66017=பிழைத்திருத்த மாறிகளை ஆராயவும்
+66018=மாற்று கட்டமைப்பு கோப்பு
+66019=இந்த மாற்று கட்டமைப்பு கோப்பை பயன்படுத்தவும்
+66020=பயன்பாட்டால் பயன்படுத்தப்பட உள்ளமைவு கோப்பை மாற்றியுள்ளீர்கள்.<CR>புதிய உள்ளமைவு கோப்பு தற்போதைய அமர்வில் *பயன்படுத்தப்படாது*. இந்த அமர்வில் நீங்கள் செய்யும் எந்த உள்ளமைவு மாற்றங்களும், *தற்போது* திறந்திருக்கும் உள்ளமைவு கோப்பில் சேமிக்கப்படும்.<CR><CR>இப்போதே பயன்பாட்டை மறுதொடக்கம் செய்ய பரிந்துரைக்கப்படுகிறது, இதனால் அது புதிய உள்ளமைவு கோப்பைப் பயன்படுத்தத் தொடங்கும்...
+66021=Dev-C++ ஆல் கோப்பு இணைப்புகளை அமைக்க முடியவில்லை.<CR><CR>இது ஒரு சாதாரண நிர்வாகி அல்லாத பயனர் கணக்கில் UAC ஐப் பயன்படுத்துவதால் ஏற்பட்டதாக அறியப்படுகிறது.<CR><CR>தயவுசெய்து UAC ஐ முடக்கவும் அல்லது Dev-C++ ஐ இயக்கவும். நீங்கள் Dev-C++ ஐப் பயன்படுத்தி கோப்பு இணைப்புகளை மாற்ற விரும்பினால் நிர்வாகியாக.<CR><CR>நீங்கள் Windows Vista அல்லது 7 இல் "Default Programs" அம்சத்தை முயற்சிக்க விரும்பலாம்.
+66022=UI எழுத்துரு
+
+
+67001=நிரல் வாதங்கள்...
+67002=தற்போதைய கோப்பை தொகுக்கவும்
+
+
+68001=சாளர பட்டியல்
+68002=நீங்கள் திருத்த விரும்பும் சாளரத்தைத் தேர்ந்தெடுக்கவும்:
+
+
+69001=தற்போதைய கோப்பு...
+69002=முழு திட்டம்...
+69003="கருவிகள் / சுற்றுச்சூழல் விருப்பங்களில்" CVS ஆதரவை உள்ளமைக்கவும்...
+
+
+70001=இறக்குமதி விருப்பங்கள்
+70002= களஞ்சியம் (சேமிப்பு தளம்)
+70003=உலகளாவிய விருப்பங்கள்
+70004=சரிபார்ப்பு விருப்பங்கள்
+70005=கமிட் விருப்பங்கள்
+70006=புதுப்பிப்பு விருப்பங்கள்
+70007=வேறுபாடு விருப்பங்கள்
+70008=நிகழ்வு பதிவு விருப்பங்கள்
+70009=CVS வெளியீடு
+70010=இறக்குமதி
+70011=சரிபார்ப்பு
+70012=முடிவு (உறுதி)
+70013=புதுப்பிப்பு
+70014=வேறுபாடுகள்
+70015=நிகழ்வு பதிவு
+70016=இறக்குமதி அடைவு
+70017=நடவடிக்கை
+70018=விற்பனையாளர்
+70019=பதிப்பு n
+70020=பதிவுச் செய்தி
+70021=தொகுதி பெயர்
+70022=நீட்டிப்பு n
+70023=எப்படி என்று பார்க்கவும்
+70024=சரிபார்ப்பு அடைவு
+70025=துணை அடைவுகளைச் சேர்க்கவும்
+70026=மீட்டமைப்பு விருப்பங்கள் சேர்க்கப்பட்டது
+70027=விடுபட்ட கோப்பகங்களை உருவாக்கவும்
+70028=வெற்று கோப்பகங்களை அகற்று
+70029=உள்ளூரில் செய்யப்பட்ட மாற்றங்களை ரத்துசெய்
+70030=நம்பிக்கைக்கு முன்சா
+70031=பிராண்ட்/திருத்தம்/கிளையிடல்
+70032=அது இல்லை என்றால், மிகச் சமீபத்தியதைப் பெறவும்
+70033=மற்ற திருத்தங்கள்
+70034=ஒருங்கிணைக்கப்பட்ட வேறுபாட்டை இயக்கவும்
+70035=உள்ளூர் கோப்பை ரிமோட் அதே திருத்தம்/பிராண்டுடன் ஒப்பிடுக
+70036=உள்ளூர் கோப்பை ரிமோட் வேறு திருத்தத்துடன் ஒப்பிடுக
+70037=இரண்டு ரிமோட் மதிப்புரைகளை ஒப்பிடுக
+70038=இது தேதி
+70039=இயல்புநிலை கிளையை பதிவு செய்யவும்
+70040=ஆர்சிஎஸ் கோப்பு பெயரை மட்டும் பட்டியலிடவும்
+70041=பிராண்ட் பெயர்களைக் காட்ட வேண்டாம்
+70042=வடிகட்டி
+70043=மதிப்பாய்வு n/brand மூலம்
+70044=தேதியின்படி
+70045=பயனர் மூலம்
+70046= களஞ்சியம்
+70047=விவரங்கள்
+70048=அனைத்து அணுகல் முறை
+70049=பயனர்
+70050=சேவையகம்
+70051=தொலை அடைவு
+70052=சேர்
+70053=அகற்று
+70054=விருப்பங்களைச் சேர்
+70055=விருப்பங்களை அகற்று
+70056=வட்டில் உள்ள கோப்புக்கு கூடுதலாக அகற்று...
+
+
+71001=நிரலுக்கான வாதங்கள்
+71002=நிரலுக்கு அனுப்ப வேண்டிய வாதங்கள்:
+71003=ஹோஸ்ட் விண்ணப்பம்:
+
+
+72001=கோப்புகள்
+72002=திட்டக் கோப்புகள்:
+72003=திட்ட விருப்பங்கள்:
+72004=பிழைத்திருத்தத்திற்கான தகவலை உருவாக்கவும்
+72005=சுயவிவரத்திற்கான தகவலை உருவாக்கவும்
+72006=குறிப்பு: இந்த அமைப்புகள் இந்தத் திட்டத்திற்கு மட்டுமே பொருந்தும்
+72007=விண்டோஸ் எக்ஸ்பி பயன்முறையை ஆதரிக்கவும்
+72008=மூலக் கோப்பு விருப்பங்கள்:
+72009=தொகுப்பில் சேர்க்கவும்
+72010=மூலக் கோப்பை C++ ஆக தொகுக்கவும்
+72011=பதிப்பு தகவல்
+72012=திட்டத்தில் பதிப்புத் தகவலைச் சேர்க்கவும்
+72013=பதிப்பு விவரங்கள்
+72014=மேஜர்:
+72015=மைனர்:
+72016=புதுப்பிப்பு (வெளியீடு):
+72017=கட்டுமானம் (கட்டுமானம்):
+72018=மொழி:
+72019=கூடுதல் தகவல்:
+72020=கட்டுமான கட்டளையை மீறு
+72021=வெளியீட்டு கோப்பு
+72022=இணைப்பில் சேர்க்கவும்
+72023=கட்டுமான முன்னுரிமை:
+72024=தொகுக்கும் போது தானாக அதிகரிக்கும் உருவாக்க எண்
+72025=வழக்கமான மேக்ஃபைலைப் பயன்படுத்தவும் (ஒன்றை உருவாக்க வேண்டாம், இதைப் பயன்படுத்தவும்)
+72026=வழக்கமான மேக்ஃபைல் பற்றிய தகவல்...
+72027=மேக்ஃபைலில் பின்வரும் கோப்பைச் சேர்க்கவும்:
+72028=கோப்புப் பதிப்போடு தயாரிப்பை ஒத்திசைக்கவும்
+72029=புதிய கோப்புகளை உருவாக்கும் போது C++ க்கு இயல்புநிலை
+
+
+73001=இயக்கக்கூடிய துண்டு
+73002=அடுத்த இயந்திரத்திற்கான வழிமுறைகளை உருவாக்கவும்
+73003=செயலி-குறிப்பிட்ட செயல்பாடுகளைப் பயன்படுத்த அனுமதிக்கவும்
+73004=உகப்பாக்கம் நிலை (-ஆக்ஸ்)
+73005=மொழி தரநிலை (-std)
+73006=பின்வரும் பிட் அகலத்துடன் (-mx) தொகுக்கவும்
+73007=முழு இணக்கத்தன்மையை பராமரிக்கும் போது குறைவாக மேம்படுத்தவும் (-mtune)
+
+
+74001=தொகுப்பாளர்:
+74002=நிலை:
+74003=கோப்பு:
+74004=பிழைகள்:
+74005=எச்சரிக்கைகள்:

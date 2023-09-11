@@ -16,7 +16,7 @@ Ver=1
 1001=&புதிய
 1002=&திட்டம்...
 1003=மூல கோப்பு
-1004=வள கோப்பு 
+1004=வளக் கோப்பு 
 1005=திட்ட வார்ப்புரு...
 1006=&வகுப்பு...
 1007=புதிய
@@ -68,76 +68,84 @@ Ver=1
 5002=கோப்புகளில் தேடு
 5003=&மாற்று
 5004=மீண்டும் தேடு
-5005=&கோட்டுக்குச் செல்
+5005=&வரிக்குச் செல்
 5006=&அதிகரிக்கும் தேடல்
 5007=&செயல்பாட்டிற்கு செல்க
 5008=மிதக்கும் திட்ட மேலாளர்
-5009=&Project Managerக்குச் செல்
-5010=&வகுப்புகள் நேவிகேட்டருக்கு செல்க
-5011=&திட்டம்/வகுப்பு நேவிகேட்டர்
+5009=&திட்ட மேலாளர்க்குச் செல்
+5010=&வகுப்புகள் உலாவிக்கு செல்க
+5011=&திட்டம்/வகுப்பு உலாவி
 5012=&நிலைப் பட்டி
-5013=&கம்பைலர் வெளியீடு
+5013=&தொகுப்பாளர் வெளியீடு
 5014=எப்போதும் &தெரியும்
 5015=&தேவைப்படும் போது மட்டும்
-5016=&டூல் பார்
+5016=&கருவி பட்டி
 5017=&முதன்மை
 5018=&தொகுத்து இயக்கவும்
-5019=புரோ&ப்ராஜெக்ட்
-5020=&விருப்பங்கள்
-5021=&சிறப்பு
+5019=திட்டம்
+5020=உதவி
+5021=&சொருகு
 5022=&திருத்து
 5023=&தேடல்
 5024=மிதக்கும் அறிக்கை சாளரம்
+5025=கோப்புகளில் மாற்று...
+5026=தொகுப்பாளர்கள்
+5027=பின்திசையில் மீண்டும் தேடு
 
 
-6001=&புதிய மூலக் கோப்பு
+6001=&புதிய கோப்பு
 6002=&திட்டத்தில் சேர்க்க
 6003=&திட்டத்திலிருந்து அகற்று
-6004=&ஆதாரக் கோப்பைத் திருத்தவும்
+6004=&வளக் கோப்பைத் திருத்தவும்
 6005=திட்ட விருப்பங்கள்
-6006=திருத்து &மேக்ஃபைல்
+6006=உருவாக்குகோப்பு பார்
 6007=வளக் கோப்பைச் சேர்
 6008=வளக் கோப்பை அகற்று
 
 
 7001=&தொகுக்கவும்
-7002=&எக்ஸிகியூட்
+7002=&இயக்கு
 7003=தொகுத்து இயக்கவும்
 7004=&அனைத்தையும் மீண்டும் உருவாக்கு
-7005=&தெளிவான கட்டுமானம்
+7005=&துடை
 7006=தொகுப்பான் முடிவுகள்
-7007=Synta&xis ஐ சரிபார்க்கவும்
-7008=மறுதொடக்கம் &நிரல்
-7009=&எக்ஸிகியூஷன் சுயவிவர பகுப்பாய்வு
+7007=Syntaxஐ சரிபார்க்கவும்
+7008=நிரல் மீட்டமை
+7009=சுயவிவர பகுப்பாய்வு
 7010=தொகுப்பை ரத்துசெய்
-7011=&கம்பைலர் விருப்பங்கள்
+7011=&தொகுப்பாளர் விருப்பங்கள்
 7012=சுற்றுச்சூழல் விருப்பங்கள்
-7013=&எடிட்டர் விருப்பங்கள்
-7014=உருவாக்க &கருவிகள்
+7013=&திருத்தி விருப்பங்கள்
+7014=கருவிகள் உள்ளமைக்கவும்
 7015=விரைவு விசைகளை உள்ளமைக்கவும்
 7016=சுயவிவரத் தகவலை நீக்கு
+7017=&Syntax Check Current File
 
 
-8001=முறை &முழுத் திரை
-8002=முறை &இயல்பு
+8001=முழுத் திரை முறை
+8002=இயல்பு முறை
 8003=&அடுத்து
 8004=&முந்தையது
 8005=&அனைத்தையும் மூடு
-8006=Dev-CPP %s முழுத்திரை. பார்க்க/மறைக்க Shift-F12ஐ அழுத்தவும்
+8006=Dev-CPP %s முழுத்திரை. Press Alt+F10 to toggle this bar, Alt+F11 to toggle Toolbars பார்க்க/மறைக்க Shift-F12ஐ அழுத்தவும்
 8007=இதைத் தவிர அனைத்தையும் மூடு
 8008=&பட்டியல்...
+8009=Press %s to toggle fullscreen or %s to toggle toolbars
 
 
 9001=&Dev-C++ பற்றி...
-9002=ஏ&புதுப்பிப்புகள்
-9003=&உதவி மெனுவை மாற்றவும்...
+9002=&புதுப்பிப்புகள்
+9003=&உதவி மெனுவை தனிபயனாக்கு...
 9004=&Dev-CPP இல் உதவி
+9005=Package Manager...
+9006=Donate :)
+9007=Tip Of The Day...
 
 
 10001=&பிழைநீக்கு
-10002=பிரேக் பாயிண்ட் (&பிரேக் பாயிண்ட்)
-10003=அடுத்த &படி
-10004=உள்ளிடாமல் அடுத்த &அறிவுறுத்தல்
+10002=பிரேக் பாயிண்ட் 
+10003=அடுத்த வரி
+10004=தொடர்
 10005=&கண்காணிக்கப்பட்ட மாறியைச் சேர்க்க
 10006=&மாறிகளைப் பார்க்கவும்
 10007=&நிறுத்தம்
@@ -154,13 +162,17 @@ Ver=1
 10018=&கோப்பை அகற்று...
 10019=&விருப்பங்கள்...
 10020=&ஆதாரக் கோப்பைத் திருத்தவும்
+10021=Next instruction
+10022=Into instruction
+10023=Skip function
+10024=Goto Breakpoint
 
 
 11001=&கோப்பை அகற்று
 11002=&கோப்பை மறுபெயரிடவும்
 11003=&மூடு
-11004=&திறக்க
-11005=திறந்த Ca&becera
+11004=&திற
+11005=தலைப்பைத்திற
 
 
 12001=அறிவிப்புக்குச் செல்
@@ -179,6 +191,9 @@ Ver=1
 12014=திட்டக் கோப்புகள்
 12015=பெறப்பட்ட உறுப்பினர்களைக் காண்க
 12016=இதனுடன் திற...
+12017=Open Containing Folder...
+12018=Close All Except This
+12019=Add TODO Item...
 
 
 13001=தொகுப்பாளர்
@@ -433,7 +448,7 @@ Ver=1
 36003=GNU GPL பொது உரிமம்
 36004=தொடர்புத் தகவல்
 36005=இரத்தம் சிந்தும் மென்பொருள் இணையதளம்:
-36006=மிங்வ் கம்பைலர் இணையதளம்:
+36006=மிங்வ் தொகுப்பாளர் இணையதளம்:
 36007=Dev-Cpp விவாத மன்றங்கள்:
 36008=Dev-Cpp அஞ்சல் பட்டியல்:
 36009=ஆசிரியர்களின் மின்னஞ்சல்:
@@ -477,7 +492,7 @@ Ver=1
 38022=ஐகான் நூலகத்திற்கான பாதை
 38023=வாழ்த்து ஸ்கிரீன்ஷாட்
 38024=பயனர் இயல்புநிலை கோப்பகத்தைத் தேர்ந்தெடுக்கவும்
-38025=கம்பைலர் அவுட்புட் டைரக்டரியைத் தேர்ந்தெடுக்கவும்
+38025=தொகுப்பாளர் அவுட்புட் டைரக்டரியைத் தேர்ந்தெடுக்கவும்
 38026=ஐகான் லைப்ரரி டைரக்டரியைத் தேர்ந்தெடுக்கவும்
 38027=அனைத்து திட்ட கோப்புகளும்
 38028=திட்டத்தில் முதல் கோப்பு மட்டுமே
@@ -549,8 +564,8 @@ Ver=1
 42004=C++ தலைப்புகள்
 
 
-43001=C கம்பைலர்:
-43002=C++ கம்பைலர்:
+43001=C தொகுப்பாளர்:
+43002=C++ தொகுப்பாளர்:
 43003=தொகுப்பாளர்:
 43004=வெளியீடு
 
@@ -563,7 +578,7 @@ Ver=1
 44006=வேகமாக தொகுக்க ஹியூரிஸ்டிக்ஸ் பயன்படுத்தவும்
 44007=Mingw க்குப் பதிலாக Cygwin Compiler ஐப் பயன்படுத்தவும்
 44008=கம்பைலரை அழைக்கும்போது பின்வரும் கட்டளைகளைச் சேர்க்கவும்
-44009=கம்பைலர் தாமதம்
+44009=தொகுப்பாளர் தாமதம்
 44010=மேக் தேதியைப் பற்றி அறிவித்தால் மில்லிசெக்குகளில் தாமதத்தை செயல்படுத்துகிறது
 44011=ஒரு வரிக்கு ஒரு பிழையைக் காட்டு
 44012=Asm, inline அல்லது typeof ஐ ஒரு முக்கிய சொல்லாக அங்கீகரிக்க வேண்டாம் (-fno-asm)
@@ -597,12 +612,12 @@ Ver=1
 
 
 47001=Dev-Cpp பயன்படுத்தும் நிரல்களின் பெயர்களை மாற்ற முடியும். (மூலம்
-47002=கட்டமைக்க கம்பைலர் தொகுப்பு
-47003=புதிய கம்பைலர் தொகுப்பு
-47004=புதிய கம்பைலர் பேக்கேஜின் பெயரை உள்ளிடவும்:
-47005=ஒரே கம்பைலர் தொகுப்பை நீக்க முடியாது!
-47006=இந்த கம்பைலர் தொகுப்பை உண்மையில் நீக்க விரும்புகிறீர்களா?
-47007=கம்பைலர் தொகுப்பை மறுபெயரிடவும்
+47002=கட்டமைக்க தொகுப்பாளர் தொகுப்பு
+47003=புதிய தொகுப்பாளர் தொகுப்பு
+47004=புதிய தொகுப்பாளர் பேக்கேஜின் பெயரை உள்ளிடவும்:
+47005=ஒரே தொகுப்பாளர் தொகுப்பை நீக்க முடியாது!
+47006=இந்த தொகுப்பாளர் தொகுப்பை உண்மையில் நீக்க விரும்புகிறீர்களா?
+47007=தொகுப்பாளர் தொகுப்பை மறுபெயரிடவும்
 47008=பில்ட் பேக்கேஜை மறுபெயரிட புதிய பெயரை உள்ளிடவும்:
 47009=மேலும் மேம்படுத்தல்கள்
 
@@ -779,7 +794,7 @@ Ver=1
 58010=MAKEFILE கோப்பு
 58011=உறவினர்
 58012=கோப்பு தேதி மற்றும் நேரம்
-58013=கம்பைலர் உள்ளமைவு
+58013=தொகுப்பாளர் உள்ளமைவு
 
 
 59001=எக்ஸிகியூஷன் சுயவிவர பகுப்பாய்வு
@@ -1046,3 +1061,111 @@ Ver=1
 74003=கோப்பு:
 74004=பிழைகள்:
 74005=எச்சரிக்கைகள்:
+74006=Compile Progress
+
+
+75001=The following %s directories don't exist:
+75002=No %s directories have been specified.
+75003=The following binary directories have been searched:
+75004=Please check if your binary directory and the executable names are set correctly at Tools >> Compiler Options >> Directories/Programs.
+75005=Would you like Dev-C++ to remove them for you and add the default paths to the valid paths?<CR><CR>Leaving those directories will lead to problems during compilation.<CR><CR>Unless you know exactly what you're doing, it is recommended that you click Yes.
+75006=Cannot find the %s "%s".
+75007=binary
+75008=C include
+75009=C++ include
+75010=library
+75011=C compiler
+75012=C++ compiler
+75013=debugger
+75014=profiler
+75015=makefile processor
+75016=resource processor
+75017=DLL wrapper
+75018=The following problems were found during validation of compiler set "%s":
+
+
+76001=Select your theme:
+76002=Font:
+76003=Color:
+76004=Icons:
+76005=You can later change themes at Tools >> Editor Options >> Fonts/Colors.
+76006=To optimize code completion, it is recommended to create a cache of frequently used headers.
+76007=It is possible add headers to cache later at Tools, Editor Options, Class Browsing, Completion.
+76008=Cache all headers (please be VERY patient)
+76009=Cache these headers (recommended):
+76010=Don't cache anything
+76011=Add file
+76012=Add folder
+76013=Remove
+76014=Parsing...
+76015=Dev-C++ has been configured successfully.
+76016=If you need help using Dev-C++, please refer to the Dev-C++ help file in the Help menu or send the developer a message (he doesn't mind!).
+76017=You can also download packages (like libraries or tools) to use with Dev-C++ using WebUpdate, which you will find in Tools menu >> Check for Packages.
+76018=&Next
+76019=Please wait...
+76020=Saving...
+76021=Done parsing in %g seconds. Saving...
+
+
+77001=Loading compiler set...
+77002=Checking file associations...
+77003=Initializing class browser...
+77004=Restoring window size...
+
+
+78001=Compiler
+78002=Building makefile...
+78003=Rebuilding whole project...
+78004=Processing makefile...
+78005=- Project Filename: %s
+78006=- Compiler Name: %s
+78007=- Filename: %s
+78008=- Resource File: %s
+78009=- Makefile Processor: %s
+78010=- Command: %s
+78011=Compilation results...
+78012=- Errors: %d
+78013=- Warnings: %d
+78014=- Output Size: %s
+78015=- Compilation Time: %fs
+78016=- Output Filename: %s
+78017=Compiling single file...
+78018=- Filename: %s
+78019=Processing resource file...
+78020=- Resource Processor: %s
+78021=Processing C++ source file...
+78022=- C++ Compiler: %s
+78023=Processing C source file...
+78024=- C Compiler: %s
+78025=Compiling project changes...
+78026=Processing header file...
+78027=No binary directory provided in compiler set "%s". Aborted compilation.
+78028=Nothing to compile. Aborted compilation.
+78029=Cleaning project...
+78030=Cleaning file...
+78031=Deleted output file %s
+78032=No output files to delete.
+78033=Processing unknown file type...
+
+
+79001=Format Current File
+79002=Formatting Options...
+79003=Formatting Options
+79004=Cannot find AStyle executable. Please make sure AStyle is located at Dev-Cpp\AStyle\AStyle.exe.
+79005=Options
+79006=Bracket style:
+79007=Indent style:
+79008=Tab width:
+79009=Indent the following kinds of code:
+79010=Classes
+79011=Switches
+79012=Cases
+79013=Namespaces
+79014=Labels
+79015=Preprocessor
+79016=Final command (add customizations here):
+79017=Preview:
+79018=Could not find AStyle
+79019=Powered by %s
+79020=Max. line length:
+79021=// Could not find the AStyle output file:<CR>// %s

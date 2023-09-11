@@ -1,150 +1,150 @@
-# Spanish.tips V05 Sep.11.2002
-# Maintainer: Ricardo Ortega
-# Favor remitir sugerencias y comentarios a ricardo@ortega.as
-
-# This is a TipOfTheDay tips file.
-# Keep each tip on one line.
+﻿# இது ஒரு  தமிழ் நாள் ஒரு குறிப்பு குறிப்புகள் கோப்பு.
+#மொழியாக்கம்: தமிழ்நேரக்குழு <anishprabu.t@gmail.com>
+# ஒவ்வொரு முனையையும் ஒரே வரியில் வைக்கவும்.
 #
-# Lines starting with '#' are comments and ignored
-# Empty lines are also ignored.
+# '#' உடன் தொடங்கும் வரிகள் கருத்துகள் மற்றும் புறக்கணிக்கப்பட்டவை
+# வெற்று வரிகளும் புறக்கணிக்கப்படுகின்றன.
 #
-# You can use these macros in the text:
-#	<CR>: 		insert a linefeed
-#	<URL>: 		is followed by a URL link
-#	<UDESC>: 	is followed by a URL description
+# இந்த மேக்ரோக்களை நீங்கள் உரையில் பயன்படுத்தலாம்:
+# <CR>: ஒரு வரிமுடிவு செருகவும்
+# <URL>: தொடர்ந்து வருவது வலைமுகவரி இணைப்பு 
+# <UDESC>: தொடர்ந்து வருவது வலைமுகவரி விளக்கம்
 #
-# Usage syntax (the text of the tip is <tip_text>):
-#	( <tip_text> | <CR> )* [ <URL>text [ <UDESC>text ] ]
+# பயன்பாட்டு தொடரியல் (முனையின் உரை <tip_text>):
+# ( <tip_text> | <CR> )* [ <URL>உரை [ <UDESC>உரை ] ]
 #
-# Example tip:
-#	...some tip<CR><CR>more lines...<URL>http://www.bloodshed.net/dev<UDESC>Click to visit Bloodshed Software
+#உதாரண உதவிக்குறிப்பு:
+# ...சில உதவிக்குறிப்பு<CR><CR>மேலும் வரிகள்...<URL>http://www.bloodshed.net/dev<UDESC>இரத்தம் சிந்தும் மென்பொருளைப் பார்வையிட கிளிக் செய்க
 #
-# More macros will be added as needed...
+# தேவைக்கேற்ப மேலும் மேக்ரோக்கள் சேர்க்கப்படும்...
 #
-# Note1: if you want to use an ampersand (&), put two together (&&).
-# Note2: each tip can have no more than 255 chars.
-# Note3: the macro <CR> counts as one character, not four.
-# Note4: with macros <URL> and <UDESC>, the rest of the line is not displayed as a tip,
-#	 so it does not count for the 255-chars limit.
-# Note5: Macro <UDESC> is optional. If ommited, <URL> will be printed as the link.
-# Note6: Macro <UDESC> if exists *must* follow the macro <URL>
+# குறிப்பு1: நீங்கள் ஒரு ஆம்பர்சண்ட் (&) பயன்படுத்த விரும்பினால், இரண்டை ஒன்றாக இணைக்கவும் (&&).
+# குறிப்பு2: ஒவ்வொரு முனையிலும் 255 எழுத்துகளுக்கு மேல் இருக்கக்கூடாது.
+# குறிப்பு 3: மேக்ரோ <CR> ஒரு எழுத்தாகக் கணக்கிடப்படுகிறது, நான்கு அல்ல.
+# குறிப்பு 4: மேக்ரோக்கள் <URL> மற்றும் <UDESC> உடன், மீதமுள்ள வரி ஒரு முனையாக காட்டப்படாது,
+# எனவே இது 255-எழுத்துகள் வரம்பைக் கணக்கிடாது.
+# குறிப்பு 5: மேக்ரோ <UDESC> விருப்பமானது. தவிர்க்கப்பட்டால், <URL> இணைப்பாக அச்சிடப்படும்.
+# குறிப்பு6: மேக்ரோ <UDESC> இருந்தால் *மேக்ரோ <URL> ஐப் பின்பற்ற வேண்டும்
 #
 
 #
-# Important tips (appear first)
+# முக்கிய குறிப்புகள் (முதலில் தோன்றும்)
 #
-...no deber�a deshabilitar estas sugerencias?<CR><CR>Le mostrar�n sugerencias y ayudas importantes.<CR><CR>Para activar las sugerencias vea "Ayuda / Sugerencia del d�a"...
+...இந்த உதவிக்குறிப்புகளை நீங்கள் முடக்கக் கூடாதா?<CR><CR>இங்கே வழங்கப்பட்டுள்ள உதவிக்குறிப்புகள் வேறு எங்கும் காணப்படாத ஆவணமற்ற தகவலை உங்களுக்கு வழங்கும்.<CR>நீங்கள் அவற்றை முடக்கிவிட்டு, பின்னர் அவற்றைப் பார்க்க விரும்பினால், "" என்பதைத் தேர்ந்தெடுக்கவும். உதவி / நாள் குறிப்பு"...
 
-# Tips from Ricardo Ortega rortega@andinanet.net
+...சமீபத்திய பிழைத்திருத்தங்கள் மற்றும் குளிர்ச்சியான புதிய அம்சங்களுடன் உங்கள் Dev-C++ சூழலைப் புதுப்பித்த நிலையில் வைத்திருக்க, WebUpdate ஐப் பயன்படுத்தலாமா?<CR><CR>"கருவிகள் / புதுப்பிப்புகளுக்கான சரிபார்ப்பு / தொகுப்புகள்..." என்பதைத் தேர்ந்தெடுக்கவும்.
 
-...Dev-CPP le permite crear programas C y C++ para Windows?<CR><CR>Seleccione Nuevo Proyecto y elija el lenguaje apropiado ...
+...Dev-CPP Windows க்காக C மற்றும் C++ நிரல்களை உருவாக்க உங்களை அனுமதிக்கிறதா?<CR><CR>புதிய திட்டத்தைத் தேர்ந்தெடுத்து பொருத்தமான மொழியைத் தேர்ந்தெடுக்கவும்...
 
-...Dev-CPP dispone de ayuda y programas de ejemplo pero puede descargar de internet m�s ayudas y ejemplos?<CR><CR>Use "Herramientas / Actualizar" y "Herramientas / Package Manager"
+...Dev-CPP ஆனது உதவி மற்றும் எடுத்துக்காட்டு நிரல்களைக் கொண்டுள்ளது, ஆனால் இணையத்திலிருந்து கூடுதல் உதவி மற்றும் எடுத்துக்காட்டுகளைப் பதிவிறக்க முடியுமா?<CR><CR>"கருவிகள் / புதுப்பிப்பு" மற்றும் "கருவிகள் / தொகுப்பு மேலாளர்" ஆகியவற்றைப் பயன்படுத்தவும்
 
-...use vUpdate para mantener su entorno Dev-Cpp actualizado y ampliado?<CR><CR>Seleccione "Herramientas / Actualizaciones..."
+...உங்கள் Dev-Cpp சூழலைப் புதுப்பிக்கவும் விரிவுபடுத்தவும் vUpdate ஐப் பயன்படுத்தவா?<CR><CR>"கருவிகள் / புதுப்பிப்புகள்..." என்பதைத் தேர்ந்தெடுக்கவும்.
 
-...Puede agregar m�s informaci�n al men� Ayuda?<CR><CR>Busque y descargue archivos .HLP, .CHM, .HTM o .PDF desde internet y use Ayuda Modificar ..."
-
-...con Dev-CPP puede crear programas multimedia?<CR><CR>Instale f�cilmente Allegro, OpenGL, GDK, FDK, y otras librer�as multimedia usando "Herramientas / Actualizar".
-
-...puedes ver a colores las l�neas de tu programa?<CR><CR>Graba el archivo con la extensi�n correcta .C .CC .CPP para que se active el coloreo de sintaxis
-
-...puedes cambiar f�cilmente los colores ?<CR><CR>Usa "Herramientas / Opciones del Editor / Sintaxis y elije Ajustes R�pidos del Color"
-
-...puedes hacer que Dev-CPP muestre un aspecto similar a Windows u Office XP?<CR><CR>Usa "Herramientas / Opciones del Entorno / Interfaz / Presentaci�n Modo XP"
-
-...los archivos #include se llaman archivos de cabecera y no librer�as?<CR><CR>En este programa se usa la palabra cabecera para referirse a los archivos de #include ...
-
-...puede ver u ocultar las ventanas de navegaci�n de proyecto y clases (funciones)?<CR><CR>Use "Ver / Navegador de Proyecto/Clases".
-
-...los archivos #include son archivos de texto terminados en .h o .hpp?<CR><CR>Contienen constantes, prototipos, definiciones de clases y rara vez contienen c�digo ...
-
-...los proyectos son grupos de archivos?<CR><CR>Un proyecto es la reuni�n de archivos fuente .C .CPP, .H, .ICO, .BMP, .RC. Toda la lista de archivos de un proyecto se guarda en los archivos .DEV
-
-...los archivos de librer�a terminan en extensi�n .LIB, .DLL, .RTL o .A?<CR><CR>Sirven para almacenar varias funciones o clases en lenguaje binario (objeto o ejecutable) resultado de un proceso de compilaci�n y creaci�n de librer�a ...
-
-...que este programa usa teclas bastante parecidas a Turbo-C/C++ Borland C/C++?<CR><CR>Aunque las teclas se pueden reasignar en Herramientas / Configurar teclas r�pidas, recuerde que existen otros programas que usan el mismo juego de teclas, incluyendo programas como xwpe (linux), o RHIDE(dos, linux)
-
-...que este programa tiene incorporado un excelente depurador para seguir paso a paso la ejecuci�n de su programa, observar (vigilar) variables y m�s?<CR><CR>No espere terminar su programa. Abra el men� Depuraci�n y pruebe Depuraci�n, paso a paso, vigilar variables y el resto de opciones...
-
-...Visita la p�gina de Dev-CPP, intercambia opiniones y preguntas sobre funciones, instrucciones y dem�ss?<CR><CR>Usa el men� de Ayuda, Acerca de Dev-C++ m�s direcciones de inter�s.<CR><CR>Visita <URL>http://www.bloodshed.net/dev<UDESC>
+...உதவி மெனுவில் கூடுதல் தகவல்களைச் சேர்க்க முடியுமா?<CR><CR>இணையத்தில் இருந்து .HLP, .CHM, .HTM, அல்லது .PDF கோப்புகளை உலாவவும் பதிவிறக்கம் செய்து, உதவி திருத்தத்தைப் பயன்படுத்தவும்..."
 
 
-#
-# Code-completion tips
-#
-...la facilidad para auto completar c�digo le ayudar� a mejorar su productividad sugiriendo los comandos disponibles en el contexto actual?<CR><CR>Para habilitar Inserci�n de C�digo Autom�tico use "Herramientas / Opciones del Editor" abra Navegador de Clases y active auto completar C�digo.
+...con Dev-CPP puede crear programas multimedia?<CR><CR>Instale fᣩlmente Allegro, OpenGL, GDK, FDK, y otras librer𬰠multimedia usando "Herramientas / Actualizar".
 
-...la facilidad para auto completar c�digo se activa cuando Usted escribe ".", "->" o "::" en la ventana del editor luego de una pausa (retardo) configurable?<CR><CR>Para configurar la pausa use "Herramientas / Opciones del editor / Navegador de Clases / Auto completar c�digo
+...puedes ver a colores las l󹑡s de tu programa?<CR><CR>Graba el archivo con la extensi󮠣orrecta .C .CC .CPP para que se active el coloreo de sintaxis
 
-...Usted puede iniciar la facilidad para auto completar c�digo presionando "Ctrl+Espacio" en la ventana del editor?<CR><CR>(Intente presionar "Ctrl+Shift+Espacio" cuando el cursor est� dentro de los par�ntesis de los argumentos de una funci�n...)
+...puedes cambiar fᣩlmente los colores ?<CR><CR>Usa "Herramientas / Opciones del Editor / Sintaxis y elije Ajustes Rᰩdos del Color"
 
-...la ventana Navegador de Clases(Funciones) le permite ver f�cilmente todas las clases y funciones de su proyecto?<CR><CR>Abra la ficha pesta�a Clases/Funciones para ver y navegar por su proyecto con m�s facilidad...
+...puedes hacer que Dev-CPP muestre un aspecto similar a Windows u Office XP?<CR><CR>Usa "Herramientas / Opciones del Entorno / Interfaz / Presentaci󮠍odo XP"
 
-...presionando la tecla shift (cambio) y el bot�n principal del rat�n en una entrada del navegador de clases, le lleva a la declaraci�n en vez de a la implementaci�n?<CR><CR>Por supuesto, puede usar el men� contextual para eso y m�s...
+...los archivos #include se llaman archivos de cabecera y no librer𬰿<CR><CR>En este programa se usa la palabra cabecera para referirse a los archivos de #include ...
 
-...Usted puede agregar carpetas personalizadas a su navegador de clases para localizar m�s f�cilmente cosas en proyectos grandes?<CR><CR>Puede anidar las carpetas!<CR><CR>Use el men� contextual (bot�n derecho) en el navegador...
+...puede ver u ocultar las ventanas de navegaci󮠤e proyecto y clases (funciones)?<CR><CR>Use "Ver / Navegador de Proyecto/Clases".
 
-...las carpetas personalizadas de clases se guardan en un archivo llamado "classfolders.dcf" en el directorio ra�z de su proyecto?<CR><CR>Si algo va mal, simplemente borre este archivo y abra nuevamente su proyecto!
+...los archivos #include son archivos de texto terminados en .h o .hpp?<CR><CR>Contienen constantes, prototipos, definiciones de clases y rara vez contienen c󤩧o ...
 
-...hay dos modos de despliegue para su navegador de clases?<CR><CR>Uno muestra todas las clases / miembros / funciones del proyecto, y el otro muestra informaci�n relevante *solo* para el archivo actual en la ventana del editor.<CR><CR>Use el men� contextual del navegador de clases y elija "Modo de Visualizaci�n"...
+...los proyectos son grupos de archivos?<CR><CR>Un proyecto es la reuni󮠤e archivos fuente .C .CPP, .H, .ICO, .BMP, .RC. Toda la lista de archivos de un proyecto se guarda en los archivos .DEV
+
+...los archivos de librer𨁴erminan en extensi󮠮LIB, .DLL, .RTL o .A?<CR><CR>Sirven para almacenar varias funciones o clases en lenguaje binario (objeto o ejecutable) resultado de un proceso de compilaci󮠹 creaci󮠤e librer𨀮..
+
+...que este programa usa teclas bastante parecidas a Turbo-C/C++ Borland C/C++?<CR><CR>Aunque las teclas se pueden reasignar en Herramientas / Configurar teclas rᰩdas, recuerde que existen otros programas que usan el mismo juego de teclas, incluyendo programas como xwpe (linux), o RHIDE(dos, linux)
+
+...que este programa tiene incorporado un excelente depurador para seguir paso a paso la ejecuci󮠤e su programa, observar (vigilar) variables y m᳿<CR><CR>No espere terminar su programa. Abra el menú Depuraci󮠹 pruebe Depuraci󮬠paso a paso, vigilar variables y el resto de opciones...
+
+...Visita la p᧩na de Dev-CPP, intercambia opiniones y preguntas sobre funciones, instrucciones y demᳳ?<CR><CR>Usa el menú de Ayuda, Acerca de Dev-C++ m᳠direcciones de inter鳮<CR><CR>Visita <URL>http://www.bloodshed.net/dev<UDESC>
+
+
 
 #
-# Project Manager tips
+# குறியீடு-நிறைவு குறிப்புகள்
 #
-...puede definir si usa un solo clic o doble clic sobre un archivo en el administrador de proyectos para abrirlo con el editor?<CR><CR>Elija "Herramientas / Opciones de Entorno" y revise "Doble clic para abrir archivos en el administrador de proyectos"...
+...குறியீடு நிறைவு அம்சம், தற்போதைய சூழலில் கிடைக்கக்கூடிய அனைத்து கட்டளைகளையும் பரிந்துரைப்பதன் மூலம் உங்கள் உற்பத்தித்திறனை அதிகரிக்க உதவுமா?<CR><CR>குறியீட்டை நிறைவுசெய்ய, "கருவிகள் / எடிட்டர் விருப்பங்கள்" என்பதற்குச் சென்று வகுப்பு உலாவி மற்றும் குறியீட்டை இயக்கவும். நிறைவு.
 
-...Usted puede definir carpetas personalizadas (s�lo en la parte superior del administrador de proyectos) para organizar mejor sus archivos?<CR><CR>Use el men� contextual del administrador de proyectos...
+...பயனர் வரையறுக்கப்பட்ட காலக்கெடுவிற்குப் பிறகு எடிட்டர் சாளரத்தில் ".", "->" அல்லது "::" என தட்டச்சு செய்யும் போது குறியீடு நிறைவு அம்சம் தூண்டப்படுமா?<CR><CR>இந்த நேரத்தை வரையறுக்க "கருவிகள் / எடிட்டர் விருப்பங்கள் / வகுப்பு உலாவி / குறியீடு நிறைவு" என்பதற்குச் செல்லவும்.
 
-...si Usted ha creado carpetas personalizadas en el administrador de proyectos, puede arrastrar y soltar archivos para reorganizarlos?
+...எடிட்டர் சாளரத்தில் எந்த நேரத்திலும் "Ctrl+Space" ஐ அழுத்துவதன் மூலம் குறியீடு நிறைவு அம்சத்தை நீங்கள் தூண்ட முடியுமா?<CR><CR>(செயல்பாட்டின் வாதங்கள் அடைப்புக்குறிக்குள் கர்சர் இருக்கும்போது "Ctrl+Shift+Space"ஐ அழுத்தி முயற்சிக்கவும் ...)
 
-#
-# File menu tips
-#
-...puede obtener informaci�n acerca del archivo en el cual est� trabajando?<CR><CR>Use "Archivo / Propiedades" y obtendr� varios detalles del archivo, como tama�o, n�mero de l�neas, comentarios, l�neas vac�as, cabeceras, etc.!
+...வகுப்பு உலாவியில் உள்ள உள்ளீட்டில் ஷிப்ட்-கிளிக் செய்தால், செயல்படுத்துவதற்குப் பதிலாக அறிவிப்புக்கு உங்களை அழைத்துச்செல்கிறதா?<CR>நிச்சயமாக, அதே (மேலும்!) செயல்பாட்டிற்கு நீங்கள் சூழல் மெனுவையும் பயன்படுத்தலாம்...
 
-...puede grabar un proyecto como una plantilla?<CR><CR>Seleccione "Archivo / Nuevo / Plantilla".<CR>Esto grabar� su proyecto como una plantilla para Dev-Cpp y estar� disponible cuando seleccione "Archivo / Nuevo / Proyecto".<CR>De esta manera, tendr� una base de c�digo inicial, a su gusto y/o necesidades!
+...பெரிய திட்டங்களில் நீங்கள் தேடுவதை எளிதாகக் கண்டறிய வகுப்பு உலாவியில் தனிப்பயன் கோப்புறைகளைச் சேர்க்கலாமா? நீங்கள் தனிப்பயன் கோப்புறைகளையும் கூடு கட்டலாம்!<CR><CR> சூழல் மெனுவைக் கொண்டு வர, வகுப்பு உலாவியில் வலது கிளிக் செய்யவும்...
 
-...puede importar sus proyectos de MS Visual C++ a Dev-Cpp?<CR><CR>Use "Archivo / Importar / Proyecto MS Visual C++".<CR>Es posible que se necesite reconfigurar algunas opciones del proyecto, pero seguiremos trabajando para que este cambio sea m�s f�cil. Es un trabajo en proceso!
+...வகுப்பு உலாவி தனிப்பயன் கோப்புறைகள் தகவல் உங்கள் திட்டத்தின் ரூட் கோப்பகத்தில் "classfolders.dcf" என்ற பெயரில் ஒரு கோப்பில் வைக்கப்பட்டுள்ளதா?<CR><CR>ஏதேனும் தவறு நடந்தால் மற்றும் விஷயங்கள் குழப்பமடைந்தால், இந்தக் கோப்பை நீக்கிவிட்டு மீண்டும்- உங்கள் திட்டத்தை திறக்கவும்!
 
-...puede exportar un archivo fuente o todo un proyecto a formato HTML o RTF?<CR><CR>As� puede subir sus archivos fuente a un sitio web y compartirlos con el mundo!<CR><CR>Use "Archivo / Exportar" y elija el formato deseado...
+...வகுப்பு உலாவிக்கு இரண்டு காட்சி முறைகள் உள்ளதா?<CR>ஒன்று பாகுபடுத்தப்பட்ட வகுப்புகள்/உறுப்பினர்கள்/திட்டத்தின் செயல்பாடுகள் அனைத்தையும் உங்களுக்குக் காண்பிக்கும், மற்றொன்று தற்போது எடிட் செய்யும் கோப்பிற்கான தொடர்புடைய தகவலை *மட்டும்* காட்டுகிறது.<CR <CR>வகுப்பு உலாவியில் வலது கிளிக் செய்து, "காட்சி முறை" என்பதைத் தேர்ந்தெடுக்கவும்...
 
 #
-# Edit menu tips
+# திட்ட மேலாளர் குறிப்புகள்
 #
-...puede poner o quitar los signos de comentario a un conjunto de l�neas?<CR><CR>Seleccione las l�neas deseadas y Use "Edici�n / Poner comentario" o "Quitar comentario".
+...ஒரு எடிட்டரில் திறக்க, திட்ட மேலாளரில் உள்ள கோப்பை ஒற்றை கிளிக் அல்லது இருமுறை கிளிக் செய்ய வேண்டுமா என்பதை நீங்கள் வரையறுக்க முடியுமா?<CR><CR>இதை வரையறுக்க "கருவிகள் / சுற்றுச்சூழல் விருப்பங்கள்" என்பதற்குச் சென்று இயக்கவும். (அல்லது முடக்கு) "திட்ட மேலாளர் கோப்புகளைத் திறக்க இருமுறை கிளிக் செய்யவும்"...
 
-...puede colocar o quitar espacios al inicio de las l�neas (indentar) para mejorar la presentaci�n?<CR><CR>Use "Edici�n / Indentar" o "Quitar Indentaci�n".
+...உங்கள் கோப்புகளை சிறப்பாக ஒழுங்கமைக்க திட்ட மேலாளரில் தனிப்பயன் (உயர்நிலை மட்டும்) கோப்புறைகளை நீங்கள் வரையறுக்க முடியுமா?<CR><CR>இதைச் செய்ய, சூழல் மெனுவைக் கொண்டு வர திட்ட மேலாளரில் உள்ள கோப்பில் வலது கிளிக் செய்யவும். ...
 
-...puede usar marcadores en el editor para moverse r�pidamente por sus archivos fuente?<CR><CR>Ponga o quite una marca usando "Edici�n / Marcadores de Posici�n" elija el n�mero de marcador.<CR><CR>Para ir a ese marcador use "Edici�n / Ir a Marcador" y elija el n�mero deseado.
-
-...el programa tiene la opci�n de "Ir a funci�n" bajo el men� Buscar?<CR><CR>Muestra todas las funciones del archivo y si usted escribe una parte del nombre de la funci�n, la lista se filtra. Presione Enter y el editor le lleva a esa funci�n!<CR>Nota: Debe activar navegaci�n de clases(funciones)...
-
-...puede contactar al traductor al espa�ol y autor de varias de estas sugerencias?<CR><CR>Escriba a Ricardo Ortega en Quito, Ecuador<CR><URL>mailto:ricardo@ortega.as<UDESC>ricardo@ortega.as
-
-...Dev-CPP tiene muchas m�s cosas interesantes y gratis?<CR><CR>Use Herramientas Actualizar para revisar y descargar muchos extras.
+... நீங்கள் திட்ட மேலாளரில் தனிப்பயன் கோப்புறைகளை உருவாக்கியிருந்தால், அவற்றை மீண்டும் ஒழுங்கமைக்க கோப்புகளை இழுத்து &&விடலாமா?
 
 #
-# More tips by Fernando Mu�oz Ledesma
+# கோப்பு மெனு குறிப்புகள்
+#
+...நீங்கள் பணிபுரியும் கோப்பைப் பற்றிய தகவலைப் பெற முடியுமா?<CR><CR>"கோப்பு / பண்புகள்" என்பதைத் தேர்ந்தெடுக்கவும், கோப்பின் அளவு, வரிகளின் எண்ணிக்கை, வரிக் கருத்துகள், வெற்று வரிகள் பற்றிய தகவல்களைப் பெறுவீர்கள் மற்றும் கோப்புகளை உள்ளடக்கியது!
+
+...உங்கள் திட்டத்தை டெம்ப்ளேட்டாக சேமிக்க முடியுமா?<CR><CR>"கோப்பு / புதியது / டெம்ப்ளேட்" என்பதைத் தேர்ந்தெடுக்கவும். இது உங்கள் திட்டத்தை Dev-C++ டெம்ப்ளேட்டாகச் சேமிக்கும், மேலும் நீங்கள் "File / New / Project" என்பதைத் தேர்ந்தெடுக்கும் போது கிடைக்கும்.<CR>இவ்வாறு உங்கள் ரசனையின் அடிப்படையில் குறியீட்டு முறையைத் தொடங்க உங்களுக்கு ஒரு அடிப்படை இருக்கும்!
+
+...உங்கள் MS விஷுவல் C++ ப்ராஜெக்ட்களை Dev-C++ இல் இறக்குமதி செய்யலாமா?<CR><CR>"கோப்பு / இறக்குமதி / இறக்குமதி MS விஷுவல் C++ ப்ராஜெக்ட்" என்பதைத் தேர்ந்தெடுக்கவும்.<CR>இதற்குப் பிறகு நீங்கள் திட்ட விருப்பங்களைச் சிறிது மாற்றியமைக்க வேண்டியிருக்கும். இறக்குமதி செய்கிறது ஆனால், ஏய், வேலை நடந்து கொண்டிருக்கிறது!
+
+...நீங்கள் ஒரு மூல கோப்பு அல்லது முழு திட்டத்தையும் HTML அல்லது RTF க்கு ஏற்றுமதி செய்ய முடியுமா?<CR>இதன் மூலம் உங்கள் ஆதாரங்களை இணையதளத்தில் பதிவேற்றி அவற்றை உலகத்துடன் பகிரலாம்!<CR><CR>"கோப்பு / என்பதைக் கிளிக் செய்யவும். ஏற்றுமதி" மற்றும் ஏற்றுமதி முறையைத் தேர்ந்தெடுக்கவும்...
+
+#
+# மெனு உதவிக்குறிப்புகளைத் திருத்தவும்
+#
+...கோடுகளின் தொகுப்பைத் தேர்ந்தெடுத்து "திருத்து / (கருத்து நீக்கம்)" என்பதைக் கிளிக் செய்வதன் மூலம் நீங்கள் (அன்)கருத்து தெரிவிக்கலாமா?
+
+...கோடுகளின் தொகுப்பைத் தேர்ந்தெடுத்து "திருத்து / (அன்)இன்டென்ட்" என்பதைக் கிளிக் செய்வதன் மூலம் நீங்கள் (அன்)இன்டென்ட் செய்ய முடியுமா?
+
+...குறியீட்டை விரைவாக நகர்த்த எடிட்டரில் புக்மார்க்குகளைப் பயன்படுத்தலாமா?<CR><CR>செட் அல்லது"புக்மார்க்குகளைத் திருத்து / மாற்று" என்பதைக் கிளிக் செய்து, புக்மார்க் எண்ணைத் தேர்ந்தெடுப்பதன் மூலம் புக்மார்க்கை அன்செட் செய்யவும்.<CR>"திருத்து / புக்மார்க்குகள்" என்பதைக் கிளிக் செய்து, புக்மார்க் எண்ணைத் தேர்ந்தெடுப்பதன் மூலம் செட் புக்மார்க்கிற்குச் செல்லவும்.
+
+... "தேடல்" மெனுவின் கீழ் ஒரு சக்திவாய்ந்த "Goto செயல்பாடு" கட்டளை உள்ளதா?<CR><CR>இது அனைத்து கோப்பின் செயல்பாடுகளையும் காட்டுகிறது மற்றும் செயல்பாட்டு பெயரின் சில பகுதியை தட்டச்சு செய்வதன் மூலம், பட்டியல் கீழே வடிகட்டப்படுகிறது. Enter ஐ அழுத்தவும், நீங்கள் உடனடியாக இந்தச் செயல்பாட்டிற்குச் செல்வீர்கள்!<CR>குறிப்பு: வகுப்பு உலாவல் இயக்கப்பட்டிருக்க வேண்டும்...
+
+
+
+...puede contactar al traductor al espa񯬠y autor de varias de estas sugerencias?<CR><CR>Escriba a Ricardo Ortega en Quito, Ecuador<CR><URL>mailto:ricardo@ortega.as<UDESC>ricardo@ortega.as
+
+...Dev-CPP tiene muchas m᳠cosas interesantes y gratis?<CR><CR>Use Herramientas Actualizar para revisar y descargar muchos extras.
+
+#
+# More tips by Fernando Mu񯺠Ledesma
 #
 
-...hay dos modos de pantalla completa?<CR><CR>Para ir al modo de pantalla completa presiona la tecla "F12" o selecciona "Ventana / Modo Pantalla Completa".<CR><CR>Para a�adirle la Barra de Herramientas hay que presionar "Shift" y "F12".<CR><CR>Para volver al modo normal presionar "F12".
+...hay dos modos de pantalla completa?<CR><CR>Para ir al modo de pantalla completa presiona la tecla "F12" o selecciona "Ventana / Modo Pantalla Completa".<CR><CR>Para a񡤩rle la Barra de Herramientas hay que presionar "Shift" y "F12".<CR><CR>Para volver al modo normal presionar "F12".
 
-...puedes utilizar teclas para acceder r�pidamente a opciones importantes y que adem�s puedes configurarlas?<CR><CR>Para ello ve a "Herramientas / Configurar Atajos Teclado".<CR><CR>Nota: Se pueden deshacer los cambios porque se guardan en el archivo "devshortcuts.cfg" en la carpeta principal.
+...puedes utilizar teclas para acceder rᰩdamente a opciones importantes y que adem᳠puedes configurarlas?<CR><CR>Para ello ve a "Herramientas / Configurar Atajos Teclado".<CR><CR>Nota: Se pueden deshacer los cambios porque se guardan en el archivo "devshortcuts.cfg" en la carpeta principal.
 
-...el archivo "devcpp.ini" contiene toda la configuraci�n de Dev-C++?<CR><CR>As� si sucediese algo malo en, por ejemplo, los colores para mostrar la sintaxis en el editor, puedes quitar lo que hay debajo de la clave "[Editor.Syntax]" o modificar alguna configuraci�n simplemente.
+...el archivo "devcpp.ini" contiene toda la configuraci󮠤e Dev-C++?<CR><CR>As𜱩 sucediese algo malo en, por ejemplo, los colores para mostrar la sintaxis en el editor, puedes quitar lo que hay debajo de la clave "[Editor.Syntax]" o modificar alguna configuraci󮠳implemente.
 
-...puedes a�adirle poderosas herramientas a Dev-C++?<CR><CR>Ve a "Herramientas / Configurar Herramientas / A�adir" y a�adiendo el t�tulo, el programa, la carpeta de trabajo y los macros y par�metros que necesite,<CR>� y tendr�s la nueva herramienta lista para su utilizaci�n con Dev-C++ !
+...puedes a񡤩rle poderosas herramientas a Dev-C++?<CR><CR>Ve a "Herramientas / Configurar Herramientas / A񡤩r" y a񡤩endo el t񝑬o, el programa, la carpeta de trabajo y los macros y par᭥tros que necesite,<CR>¡ y tendr᳠la nueva herramienta lista para su utilizaci󮠣on Dev-C++ !
 
-...puedes ver los resultados del compilador utilizando s�lo el teclado?<CR><CR>Basta con que presiones "Alt"+"C" e ir�s a la pesta�a compilador. Y para moverte al resto de las pesta�as, con "Ctrl"+"Tab".<CR><CR>Recuerda que cuando llegues a la pesta�a Cerrar, los resultados del compilador se ocultar�n.
+...puedes ver los resultados del compilador utilizando s󬯠el teclado?<CR><CR>Basta con que presiones "Alt"+"C" e ir᳠a la pesta񡠣ompilador. Y para moverte al resto de las pesta񡳬 con "Ctrl"+"Tab".<CR><CR>Recuerda que cuando llegues a la pesta񡠃errar, los resultados del compilador se ocultarᮮ
 
-...puedes compilar r�pidamente tu c�digo fuente o proyecto presionando "Ctrl"+"F9"?<CR><CR>� Sab�as que puedes ejecutar tu programa presionando "Ctrl"+"F10"?<CR><CR>� Sab�as que puedes hacer las dos anteriores presionando "F9"?<CR><CR>Son los atajos del teclado de Dev-C++.
+...puedes compilar rᰩdamente tu c󤩧o fuente o proyecto presionando "Ctrl"+"F9"?<CR><CR>¿ Sab𬰠que puedes ejecutar tu programa presionando "Ctrl"+"F10"?<CR><CR>¿ Sab𬰠que puedes hacer las dos anteriores presionando "F9"?<CR><CR>Son los atajos del teclado de Dev-C++.
 
-...cada usuario tiene su propia configuraci�n?<CR><CR>Los archivos de configuraci�n se guardar�n en la carpeta de Application Data de cada usuario<CR><CR>As� podr�s personalizar Dev-C++ sin preocuparte de que otros usuarios cambien tu configuraci�n.<CR><CR>Esto es v�lido s�lo para Windows 2000 y XP.
+...cada usuario tiene su propia configuraci󮿼CR><CR>Los archivos de configuraci󮠳e guardarᮠen la carpeta de Application Data de cada usuario<CR><CR>As𜁯dr᳠personalizar Dev-C++ sin preocuparte de que otros usuarios cambien tu configuraci󮮼CR><CR>Esto es vᬩdo s󬯠para Windows 2000 y XP.
 
-...la sintaxis coloreada tiene varias configuraciones para adaptar m�s f�cilmente el editor de Dev-C++?<CR><CR>As� puedes ver la sintaxis como en MS Visual C++, Borland, adem�s de otras.<CR><CR>Elije la que m�s te guste en Herramientas / Opciones del editor / Sintaxis / Configuraciones.
+...la sintaxis coloreada tiene varias configuraciones para adaptar m᳠fᣩlmente el editor de Dev-C++?<CR><CR>As𜁵edes ver la sintaxis como en MS Visual C++, Borland, adem᳠de otras.<CR><CR>Elije la que m᳠te guste en Herramientas / Opciones del editor / Sintaxis / Configuraciones.
 
-...puedes tener tu propia configuraci�n de sintaxis coloreada?<CR><CR>Haz los ajustes en Herramientas / Opciones del editor / Sintaxis y dale al icono de guardar, que es el dibujo del disquette.<CR><CR>Tendr�s que introducir un nombre y...<CR>          �Listo, ya tienes tu propia configuraci�n!
+...puedes tener tu propia configuraci󮠤e sintaxis coloreada?<CR><CR>Haz los ajustes en Herramientas / Opciones del editor / Sintaxis y dale al icono de guardar, que es el dibujo del disquette.<CR><CR>Tendr᳠que introducir un nombre y...<CR>          ¡Listo, ya tienes tu propia configuraci󮡍
 
-...existe un bot�n para cancelar la compilaci�n?<CR><CR>Si por error le has dado a compilar pues cancelarla presionando el bot�n con letras rojas que dicen "Parar la compilaci�n"<CR><CR>El bot�n se encuentra en los resultados de la compilaci�n abajo a la izquierda, justo debajo del indicador del tama�o del archivo de salida.
+...existe un bot󮠰ara cancelar la compilaci󮿼CR><CR>Si por error le has dado a compilar pues cancelarla presionando el bot󮠣on letras rojas que dicen "Parar la compilaci󮢼CR><CR>El bot󮠳e encuentra en los resultados de la compilaci󮠡bajo a la izquierda, justo debajo del indicador del tama񯠤el archivo de salida.
+
 

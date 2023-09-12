@@ -306,7 +306,6 @@ Ver=1
 25006=Tab automatically indents
 25007=Backspace unindents
 
-
 26001=Group similar actions on undo
 26002=Home places cursor after indent
 26003=Cursor past EOF
